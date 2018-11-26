@@ -37,7 +37,7 @@ public class Agente : MonoBehaviour
     enum Lados { DIREITA, ESQUERDA }
     Lados lado;
 
-    public static float VidaInimigo;
+    public float VidaInimigo;
     SpriteRenderer sprite;
 
     public float danoAgente;
@@ -59,7 +59,6 @@ public class Agente : MonoBehaviour
         duracaoAtacar = 2.4f;
         danoAgente = 0.25f;
 
-        VidaInimigo = 1f;
         sprite = GetComponent<SpriteRenderer>();
     }
 

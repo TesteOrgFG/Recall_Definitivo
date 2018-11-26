@@ -35,3 +35,1709 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Recall/ArticyDraft3/Assets.sqlite
+Recall/ArticyDraft3/Partitions/'Assets'-TypedPartition(b37d8d9b-76e4-4589-96f3-9db6f404b9ae).adpd
+Recall/ArticyDraft3/Partitions/'Documents'-TypedPartition(dcb944fb-2ee0-4711-9ceb-7dba17de99d2).adpd
+Recall/ArticyDraft3/Partitions/'Entities'-TypedPartition(ea25adf6-8614-4e54-8b23-3a975efa8f5c).adpd
+Recall/ArticyDraft3/Partitions/'Export_Rulesets'-TypedPartition(97c470fe-fe31-45d4-ad29-9e28704c7f5e).adpd
+Recall/ArticyDraft3/Partitions/'Flow'-TypedPartition(4884ddaa-9edb-4114-889a-09db00219bd7).adpd
+Recall/ArticyDraft3/Partitions/'Global_Variables'-TypedPartition(f509093a-e8ec-4dc1-855a-cc843977d428).adpd
+Recall/ArticyDraft3/Partitions/'Journeys'-TypedPartition(d57525b6-d853-49a5-bf4f-b2f89962a27f).adpd
+Recall/ArticyDraft3/Partitions/'Locations'-TypedPartition(a606e29c-2d95-4978-9470-198023f71d95).adpd
+Recall/ArticyDraft3/Partitions/'Settings'-TypedPartition(72473753-5413-4984-aa07-df18b676146f).adpd
+Recall/ArticyDraft3/Partitions/'Template_Design'-TypedPartition(7a507840-1ec8-4f58-8262-a693f17b64d3).adpd
+Recall/ArticyDraft3/Partitions/RootPartition(b76aa1da-082b-4067-a0bc-12d8a575f0a3).adpd
+Recall/ArticyDraft3/ProjectInfo.aph
+Recall/ArticyDraft3/Sessions/ExportPresets.xml
+Recall/ArticyDraft3/Sessions/SessionData_LocalUser.adpd
+Recall/Assets/!VibrantEffectTexturesFreePack.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/10.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/10.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/12.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/12.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/14.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/14.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/18.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/18.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/2.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/2.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/27.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/27.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/28.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/28.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/36.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/36.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/4.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/4.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/40.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Materials/40.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/10.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/10.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/12.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/12.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/14.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/14.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/18.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/18.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/2.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/2.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/27.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/27.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/28.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/28.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/36.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/36.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/4.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/4.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/40.png
+Recall/Assets/!VibrantEffectTexturesFreePack/acrylics/Textures/40.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/54.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/54.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/61.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/61.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/73.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/73.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/83.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/83.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/85.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Materials/85.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/54.png
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/54.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/61.png
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/61.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/73.png
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/73.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/83.png
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/83.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/85.png
+Recall/Assets/!VibrantEffectTexturesFreePack/ballpoint/Textures/85.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/EnergyCloud.prefab
+Recall/Assets/!VibrantEffectTexturesFreePack/EnergyCloud.prefab.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/EnergyPoint.prefab
+Recall/Assets/!VibrantEffectTexturesFreePack/EnergyPoint.prefab.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/115.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/115.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/130.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/130.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/138.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/138.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/140.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/140.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/144.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Materials/144.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/115.png
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/115.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/130.png
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/130.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/138.png
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/138.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/140.png
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/140.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/144.png
+Recall/Assets/!VibrantEffectTexturesFreePack/graphite/Textures/144.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/Horizontal_Beacon.prefab
+Recall/Assets/!VibrantEffectTexturesFreePack/Horizontal_Beacon.prefab.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/ParticleTestScene.unity
+Recall/Assets/!VibrantEffectTexturesFreePack/ParticleTestScene.unity.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/157.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/157.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/158.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/158.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/166.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/166.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/171.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/171.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/174.mat
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Materials/174.mat.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/157.png
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/157.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/158.png
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/158.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/166.png
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/166.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/171.png
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/171.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/174.png
+Recall/Assets/!VibrantEffectTexturesFreePack/specks/Textures/174.png.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/TestParticles_FireLayered.prefab
+Recall/Assets/!VibrantEffectTexturesFreePack/TestParticles_FireLayered.prefab.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/TestParticles_Ice.prefab
+Recall/Assets/!VibrantEffectTexturesFreePack/TestParticles_Ice.prefab.meta
+Recall/Assets/!VibrantEffectTexturesFreePack/TestParticles_LayeredGreen.prefab
+Recall/Assets/!VibrantEffectTexturesFreePack/TestParticles_LayeredGreen.prefab.meta
+Recall/Assets/ArticyContent.meta
+Recall/Assets/ArticyContent/ArticyPluginSettings.asset
+Recall/Assets/ArticyContent/ArticyPluginSettings.asset.meta
+Recall/Assets/ArticyImporter.meta
+Recall/Assets/ArticyImporter/ArticyImporterReference.chm
+Recall/Assets/ArticyImporter/ArticyImporterReference.chm.meta
+Recall/Assets/ArticyImporter/ArticyRuntime.dll
+Recall/Assets/ArticyImporter/ArticyRuntime.dll.meta
+Recall/Assets/ArticyImporter/Helper.meta
+Recall/Assets/ArticyImporter/Helper/ArticyDebugBranch.cs
+Recall/Assets/ArticyImporter/Helper/ArticyDebugBranch.cs.meta
+Recall/Assets/ArticyImporter/Helper/ArticyDebugBranchButton.prefab
+Recall/Assets/ArticyImporter/Helper/ArticyDebugBranchButton.prefab.meta
+Recall/Assets/ArticyImporter/Helper/ArticyDebugFlowPlayer.cs
+Recall/Assets/ArticyImporter/Helper/ArticyDebugFlowPlayer.cs.meta
+Recall/Assets/ArticyImporter/Helper/ArticyDebugFlowPlayer.prefab
+Recall/Assets/ArticyImporter/Helper/ArticyDebugFlowPlayer.prefab.meta
+Recall/Assets/ArticyImporter/Plugin.meta
+Recall/Assets/ArticyImporter/Plugin/Editor.meta
+Recall/Assets/ArticyImporter/Plugin/Editor/ArticyImporter.Editor.dll
+Recall/Assets/ArticyImporter/Plugin/Editor/ArticyImporter.Editor.dll.meta
+Recall/Assets/ArticyImporter/Plugin/Editor/Ionic.Zip.dll
+Recall/Assets/ArticyImporter/Plugin/Editor/Ionic.Zip.dll.meta
+Recall/Assets/ArticyImporter/Plugin/Editor/Newtonsoft.Json.dll
+Recall/Assets/ArticyImporter/Plugin/Editor/Newtonsoft.Json.dll.meta
+Recall/Assets/Audio.meta
+Recall/Assets/Audio/AudioListener.prefab
+Recall/Assets/Audio/AudioListener.prefab.meta
+Recall/Assets/Audio/Footsteps.prefab
+Recall/Assets/Audio/Footsteps.prefab.meta
+Recall/Assets/Audio/Music.prefab
+Recall/Assets/Audio/Music.prefab.meta
+Recall/Assets/Cenário e Plataformas.meta
+Recall/Assets/Cenário e Plataformas/Avisos.meta
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO 1.png
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO 1.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO D.png
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO D.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO PORTA 1.png
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO PORTA 1.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO2.png
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO2.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO3.png
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO3.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO5.png
+Recall/Assets/Cenário e Plataformas/Avisos/AVISO5.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/PORTA 1.png
+Recall/Assets/Cenário e Plataformas/Avisos/PORTA 1.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/PORTA2.png
+Recall/Assets/Cenário e Plataformas/Avisos/PORTA2.png.meta
+Recall/Assets/Cenário e Plataformas/Avisos/PORTA3.png
+Recall/Assets/Cenário e Plataformas/Avisos/PORTA3.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade.meta
+Recall/Assets/Cenário e Plataformas/Cidade/bar fundo.png
+Recall/Assets/Cenário e Plataformas/Cidade/bar fundo.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/bar.png
+Recall/Assets/Cenário e Plataformas/Cidade/bar.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/casa azul.png
+Recall/Assets/Cenário e Plataformas/Cidade/casa azul.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/casa rosa.png
+Recall/Assets/Cenário e Plataformas/Cidade/casa rosa.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/casa1.png
+Recall/Assets/Cenário e Plataformas/Cidade/casa1.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/fundo paralax.png
+Recall/Assets/Cenário e Plataformas/Cidade/fundo paralax.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/grade.png
+Recall/Assets/Cenário e Plataformas/Cidade/grade.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/level.png
+Recall/Assets/Cenário e Plataformas/Cidade/level.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/loja.png
+Recall/Assets/Cenário e Plataformas/Cidade/loja.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/mercado.png
+Recall/Assets/Cenário e Plataformas/Cidade/mercado.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/muro.png
+Recall/Assets/Cenário e Plataformas/Cidade/muro.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/parede1.png
+Recall/Assets/Cenário e Plataformas/Cidade/parede1.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/pecas bar.asset
+Recall/Assets/Cenário e Plataformas/Cidade/pecas bar.asset.meta
+Recall/Assets/Cenário e Plataformas/Cidade/pecas bar.png
+Recall/Assets/Cenário e Plataformas/Cidade/pecas bar.png.meta
+Recall/Assets/Cenário e Plataformas/Cidade/pecas ruas.asset
+Recall/Assets/Cenário e Plataformas/Cidade/pecas ruas.asset.meta
+Recall/Assets/Cenário e Plataformas/Cidade/pecas ruas.png
+Recall/Assets/Cenário e Plataformas/Cidade/pecas ruas.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô.meta
+Recall/Assets/Cenário e Plataformas/Metrô/exemplo metro     entrada.png
+Recall/Assets/Cenário e Plataformas/Metrô/exemplo metro     entrada.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/exemplo metro embarque.png
+Recall/Assets/Cenário e Plataformas/Metrô/exemplo metro embarque.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/exemplo metro.png
+Recall/Assets/Cenário e Plataformas/Metrô/exemplo metro.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro - embarque peça.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro - embarque peça.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro - embarque.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro - embarque.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro - inicio.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro - inicio.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro - repetição 1.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro - repetição 1.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro - repetição 2.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro - repetição 2.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro - repetição 3.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro - repetição 3.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro - saida.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro - saida.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/metro entrada.png
+Recall/Assets/Cenário e Plataformas/Metrô/metro entrada.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/muro com luz.png
+Recall/Assets/Cenário e Plataformas/Metrô/muro com luz.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/trem externo porta aberta.png
+Recall/Assets/Cenário e Plataformas/Metrô/trem externo porta aberta.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/trem externo repetir.png
+Recall/Assets/Cenário e Plataformas/Metrô/trem externo repetir.png.meta
+Recall/Assets/Cenário e Plataformas/Metrô/trem interno.png
+Recall/Assets/Cenário e Plataformas/Metrô/trem interno.png.meta
+Recall/Assets/Cenário e Plataformas/Parede.prefab
+Recall/Assets/Cenário e Plataformas/Parede.prefab.meta
+Recall/Assets/Cenário e Plataformas/Plataforma.prefab
+Recall/Assets/Cenário e Plataformas/Plataforma.prefab.meta
+Recall/Assets/Cenário e Plataformas/Tiles.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tiles.prefab
+Recall/Assets/Cenário e Plataformas/Tiles/tiles.prefab.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle bar.asset
+Recall/Assets/Cenário e Plataformas/Tiles/tyle bar.asset.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle bar.png
+Recall/Assets/Cenário e Plataformas/Tiles/tyle bar.png.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro embarque.asset
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro embarque.asset.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro embarque.png
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro embarque.png.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro.asset
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro.asset.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro.png
+Recall/Assets/Cenário e Plataformas/Tiles/tyle metro.png.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle rua.asset
+Recall/Assets/Cenário e Plataformas/Tiles/tyle rua.asset.meta
+Recall/Assets/Cenário e Plataformas/Tiles/tyle rua.png
+Recall/Assets/Cenário e Plataformas/Tiles/tyle rua.png.meta
+Recall/Assets/Dialogos.meta
+Recall/Assets/Dialogos/Dialogos.meta
+Recall/Assets/Dialogos/Dialogos/Dialogo Limbo (Porta 2 habilitada).txt
+Recall/Assets/Dialogos/Dialogos/Dialogo Limbo (Porta 2 habilitada).txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Aniversário.txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Aniversário.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Chloe Telefone.txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Chloe Telefone.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Chloe Ursinho.txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Chloe Ursinho.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Final 1.txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Final 1.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Final 2.txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Final 2.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo NATHAN 1.txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo NATHAN 1.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo NATHAN 2.txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo NATHAN 2.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Sophia (com ursinho).txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Sophia (com ursinho).txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Sophia (sem ursinho).txt
+Recall/Assets/Dialogos/Dialogos/Porta 1/Dialogo Sophia (sem ursinho).txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Bob 1.txt
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Bob 1.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Bob 2.txt
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Bob 2.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Bob 3.txt
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Bob 3.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Inicio.txt
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Inicio.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Metrô 1.txt
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Metrô 1.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Metrô 2.txt
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Metrô 2.txt.meta
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Perseguição.txt
+Recall/Assets/Dialogos/Dialogos/Porta 2/Dialogo Perseguição.txt.meta
+Recall/Assets/Dialogos/Dialogos/Recall.meta
+Recall/Assets/Dialogos/Dialogos/Recall/Dialogo Recall.txt
+Recall/Assets/Dialogos/Dialogos/Recall/Dialogo Recall.txt.meta
+Recall/Assets/Dialogos/Interage1.cs
+Recall/Assets/Dialogos/Interage1.cs.meta
+Recall/Assets/Dialogos/Interage2.cs
+Recall/Assets/Dialogos/Interage2.cs.meta
+Recall/Assets/Dialogos/Interage3.cs
+Recall/Assets/Dialogos/Interage3.cs.meta
+Recall/Assets/Dialogos/Interage4.cs
+Recall/Assets/Dialogos/Interage4.cs.meta
+Recall/Assets/Dialogos/Interage5.cs
+Recall/Assets/Dialogos/Interage5.cs.meta
+Recall/Assets/Dialogos/Interage6.cs
+Recall/Assets/Dialogos/Interage6.cs.meta
+Recall/Assets/Dialogos/Interage7.cs
+Recall/Assets/Dialogos/Interage7.cs.meta
+Recall/Assets/Dialogos/InterageBOB.cs
+Recall/Assets/Dialogos/InterageBOB.cs.meta
+Recall/Assets/Dialogos/Mensagem1.cs
+Recall/Assets/Dialogos/Mensagem1.cs.meta
+Recall/Assets/Dialogos/Mensagem2.cs
+Recall/Assets/Dialogos/Mensagem2.cs.meta
+Recall/Assets/Dialogos/Mensagem3.cs
+Recall/Assets/Dialogos/Mensagem3.cs.meta
+Recall/Assets/Dialogos/Mensagem4.cs
+Recall/Assets/Dialogos/Mensagem4.cs.meta
+Recall/Assets/Dialogos/Mensagem5.cs
+Recall/Assets/Dialogos/Mensagem5.cs.meta
+Recall/Assets/Dialogos/Mensagem6.cs
+Recall/Assets/Dialogos/Mensagem6.cs.meta
+Recall/Assets/Dialogos/Mensagem7.cs
+Recall/Assets/Dialogos/Mensagem7.cs.meta
+Recall/Assets/Dialogos/MensagemInicio.cs
+Recall/Assets/Dialogos/MensagemInicio.cs.meta
+Recall/Assets/Dialogos/MensagemRecall.cs
+Recall/Assets/Dialogos/MensagemRecall.cs.meta
+Recall/Assets/Dialogos/Porta 1.meta
+Recall/Assets/Dialogos/Porta 1/InteragirChloe.cs
+Recall/Assets/Dialogos/Porta 1/InteragirChloe.cs.meta
+Recall/Assets/Dialogos/Porta 1/InteragirSophia.cs
+Recall/Assets/Dialogos/Porta 1/InteragirSophia.cs.meta
+Recall/Assets/Dialogos/Porta 1/InteragirTelefone.cs
+Recall/Assets/Dialogos/Porta 1/InteragirTelefone.cs.meta
+Recall/Assets/Dialogos/Porta 1/InteragirUrsinho.cs
+Recall/Assets/Dialogos/Porta 1/InteragirUrsinho.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemChloe3.cs
+Recall/Assets/Dialogos/Porta 1/MensagemChloe3.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemChloeTelefone.cs
+Recall/Assets/Dialogos/Porta 1/MensagemChloeTelefone.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemChloeUrsinho.cs
+Recall/Assets/Dialogos/Porta 1/MensagemChloeUrsinho.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemNathan.cs
+Recall/Assets/Dialogos/Porta 1/MensagemNathan.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemNathan2.cs
+Recall/Assets/Dialogos/Porta 1/MensagemNathan2.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemNiver.cs
+Recall/Assets/Dialogos/Porta 1/MensagemNiver.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemSophia3.cs
+Recall/Assets/Dialogos/Porta 1/MensagemSophia3.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemSophiaComUrsinho.cs
+Recall/Assets/Dialogos/Porta 1/MensagemSophiaComUrsinho.cs.meta
+Recall/Assets/Dialogos/Porta 1/MensagemSophiaSemUrso.cs
+Recall/Assets/Dialogos/Porta 1/MensagemSophiaSemUrso.cs.meta
+Recall/Assets/Dialogos/Porta 2.meta
+Recall/Assets/Dialogos/SampleScene.unity
+Recall/Assets/Dialogos/SampleScene.unity.meta
+Recall/Assets/Dialogos/Sem título.png
+Recall/Assets/Dialogos/Sem título.png.meta
+Recall/Assets/Editor Default Resources.meta
+Recall/Assets/Editor Default Resources/FMOD.meta
+Recall/Assets/Editor Default Resources/FMOD/AddIcon.png
+Recall/Assets/Editor Default Resources/FMOD/AddIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/ArrowIcon.png
+Recall/Assets/Editor Default Resources/FMOD/ArrowIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/BankIcon.png
+Recall/Assets/Editor Default Resources/FMOD/BankIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/Border.png
+Recall/Assets/Editor Default Resources/FMOD/Border.png.meta
+Recall/Assets/Editor Default Resources/FMOD/BrowserIcon.png
+Recall/Assets/Editor Default Resources/FMOD/BrowserIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/CopyIcon.png
+Recall/Assets/Editor Default Resources/FMOD/CopyIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/Delete.png
+Recall/Assets/Editor Default Resources/FMOD/Delete.png.meta
+Recall/Assets/Editor Default Resources/FMOD/EventIcon.png
+Recall/Assets/Editor Default Resources/FMOD/EventIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/FolderIconClosed.png
+Recall/Assets/Editor Default Resources/FMOD/FolderIconClosed.png.meta
+Recall/Assets/Editor Default Resources/FMOD/FolderIconOpen.png
+Recall/Assets/Editor Default Resources/FMOD/FolderIconOpen.png.meta
+Recall/Assets/Editor Default Resources/FMOD/LevelMeter.png
+Recall/Assets/Editor Default Resources/FMOD/LevelMeter.png.meta
+Recall/Assets/Editor Default Resources/FMOD/LevelMeterOff.png
+Recall/Assets/Editor Default Resources/FMOD/LevelMeterOff.png.meta
+Recall/Assets/Editor Default Resources/FMOD/NotFound.png
+Recall/Assets/Editor Default Resources/FMOD/NotFound.png.meta
+Recall/Assets/Editor Default Resources/FMOD/preview.png
+Recall/Assets/Editor Default Resources/FMOD/preview.png.meta
+Recall/Assets/Editor Default Resources/FMOD/previewemitter.png
+Recall/Assets/Editor Default Resources/FMOD/previewemitter.png.meta
+Recall/Assets/Editor Default Resources/FMOD/SearchIcon.png
+Recall/Assets/Editor Default Resources/FMOD/SearchIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/SearchIconBlack.png
+Recall/Assets/Editor Default Resources/FMOD/SearchIconBlack.png.meta
+Recall/Assets/Editor Default Resources/FMOD/Selected.png
+Recall/Assets/Editor Default Resources/FMOD/Selected.png.meta
+Recall/Assets/Editor Default Resources/FMOD/SelectedAlt.png
+Recall/Assets/Editor Default Resources/FMOD/SelectedAlt.png.meta
+Recall/Assets/Editor Default Resources/FMOD/SnapshotIcon.png
+Recall/Assets/Editor Default Resources/FMOD/SnapshotIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/StudioIcon.png
+Recall/Assets/Editor Default Resources/FMOD/StudioIcon.png.meta
+Recall/Assets/Editor Default Resources/FMOD/TransportOpen.png
+Recall/Assets/Editor Default Resources/FMOD/TransportOpen.png.meta
+Recall/Assets/Editor Default Resources/FMOD/TransportPlayButtonOff.png
+Recall/Assets/Editor Default Resources/FMOD/TransportPlayButtonOff.png.meta
+Recall/Assets/Editor Default Resources/FMOD/TransportPlayButtonOn.png
+Recall/Assets/Editor Default Resources/FMOD/TransportPlayButtonOn.png.meta
+Recall/Assets/Editor Default Resources/FMOD/TransportStopButtonOff.png
+Recall/Assets/Editor Default Resources/FMOD/TransportStopButtonOff.png.meta
+Recall/Assets/Editor Default Resources/FMOD/TransportStopButtonOn.png
+Recall/Assets/Editor Default Resources/FMOD/TransportStopButtonOn.png.meta
+Recall/Assets/Editor.meta
+Recall/Assets/Editor/FMODMigrationUtil.cs
+Recall/Assets/Editor/FMODMigrationUtil.cs.meta
+Recall/Assets/FMODFade.cs
+Recall/Assets/FMODFade.cs.meta
+Recall/Assets/FMODStudioCache.asset
+Recall/Assets/FMODStudioCache.asset.meta
+Recall/Assets/Gizmos.meta
+Recall/Assets/Gizmos/Cinemachine.meta
+Recall/Assets/Gizmos/Cinemachine/cm_logo_lg.png
+Recall/Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta
+Recall/Assets/Gizmos/FMODEmitter.tiff
+Recall/Assets/Gizmos/FMODEmitter.tiff.meta
+Recall/Assets/GoogleVR.meta
+Recall/Assets/GoogleVR/Editor.meta
+Recall/Assets/GoogleVR/Editor/FmodGvrAudioRoomEditor.cs
+Recall/Assets/GoogleVR/Editor/FmodGvrAudioRoomEditor.cs.meta
+Recall/Assets/GoogleVR/Scripts.meta
+Recall/Assets/GoogleVR/Scripts/Audio.meta
+Recall/Assets/GoogleVR/Scripts/Audio/FmodGvrAudio.cs
+Recall/Assets/GoogleVR/Scripts/Audio/FmodGvrAudio.cs.meta
+Recall/Assets/GoogleVR/Scripts/Audio/FmodGvrAudioRoom.cs
+Recall/Assets/GoogleVR/Scripts/Audio/FmodGvrAudioRoom.cs.meta
+Recall/Assets/Inimigos.meta
+Recall/Assets/Inimigos/Agentes.meta
+Recall/Assets/Inimigos/Agentes/Anim.meta
+Recall/Assets/Inimigos/Agentes/Anim/Idle_Inimigo.anim
+Recall/Assets/Inimigos/Agentes/Anim/Idle_Inimigo.anim.meta
+Recall/Assets/Inimigos/Agentes/Anim/Inimigo.controller
+Recall/Assets/Inimigos/Agentes/Anim/Inimigo.controller.meta
+Recall/Assets/Inimigos/Agentes/Anim/Morte_Inimigo.anim
+Recall/Assets/Inimigos/Agentes/Anim/Morte_Inimigo.anim.meta
+Recall/Assets/Inimigos/Agentes/Anim/Shot_Inimigo.anim
+Recall/Assets/Inimigos/Agentes/Anim/Shot_Inimigo.anim.meta
+Recall/Assets/Inimigos/Agentes/Anim/Walk_Inimigo.anim
+Recall/Assets/Inimigos/Agentes/Anim/Walk_Inimigo.anim.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_000.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_000.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_001.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_001.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_002.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_002.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_003.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_003.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_004.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_004.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_005.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_005.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_006.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_006.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_007.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_007.png.meta
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_008.png
+Recall/Assets/Inimigos/Agentes/Idle_Inimigo/idle_008.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_000.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_000.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_001.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_001.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_002.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_002.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_003.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_003.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_004.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_004.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_005.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_005.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_006.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_006.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_007.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_007.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_008.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_008.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_009.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_009.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_010.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_010.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_011.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_011.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_012.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_012.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_013.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_013.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_014.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_014.png.meta
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_015.png
+Recall/Assets/Inimigos/Agentes/Shot_Inimigo/Shot_015.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro.meta
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_000.png
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_000.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_001.png
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_001.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_002.png
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_002.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_003.png
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_003.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_004.controller
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_004.controller.meta
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_004.png
+Recall/Assets/Inimigos/Agentes/Tiro/Bullet_004.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/EfeitoTiro.anim
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/EfeitoTiro.anim.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_000.png
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_000.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_001.png
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_001.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_002.png
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_002.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_003.controller
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_003.controller.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_003.png
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_003.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_004.png
+Recall/Assets/Inimigos/Agentes/Tiro/EfeitoTiro/Muzzle_004.png.meta
+Recall/Assets/Inimigos/Agentes/Tiro/Projetil.anim
+Recall/Assets/Inimigos/Agentes/Tiro/Projetil.anim.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_000.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_000.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_001.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_001.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_002.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_002.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_003.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_003.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_004.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_004.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_005.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_005.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_006.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_006.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_007.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_007.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_008.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_008.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_009.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_009.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_010.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_010.png.meta
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_011.png
+Recall/Assets/Inimigos/Agentes/Walk_Inimigo/Walk_011.png.meta
+Recall/Assets/Inimigos/BOB.meta
+Recall/Assets/Inimigos/BOB/BobAtira.png
+Recall/Assets/Inimigos/BOB/BobAtira.png.meta
+Recall/Assets/Inimigos/BOB/BobEspera.png
+Recall/Assets/Inimigos/BOB/BobEspera.png.meta
+Recall/Assets/Inimigos/BOB/BobMorre.png
+Recall/Assets/Inimigos/BOB/BobMorre.png.meta
+Recall/Assets/Inimigos/BOB/BobRende.png
+Recall/Assets/Inimigos/BOB/BobRende.png.meta
+Recall/Assets/Inimigos/BOB/BobRun.png
+Recall/Assets/Inimigos/BOB/BobRun.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_000.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_000.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_001.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_001.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_002.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_002.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_003.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_003.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_004.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_004.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_005.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_005.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_006.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_006.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_007.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_007.png.meta
+Recall/Assets/Inimigos/Idle_Inimigo/idle_008.png
+Recall/Assets/Inimigos/Idle_Inimigo/idle_008.png.meta
+Recall/Assets/Inimigos/Sentinelas 1.meta
+Recall/Assets/Inimigos/Sentinelas 1/orbe.psd
+Recall/Assets/Inimigos/Sentinelas 1/orbe.psd.meta
+Recall/Assets/Inimigos/Sentinelas 1/sentinelaBurn.png
+Recall/Assets/Inimigos/Sentinelas 1/sentinelaBurn.png.meta
+Recall/Assets/Inimigos/Sentinelas 1/sentinelaWalk.png
+Recall/Assets/Inimigos/Sentinelas 1/sentinelaWalk.png.meta
+Recall/Assets/Inimigos/Sentinelas.meta
+Recall/Assets/Inimigos/Sentinelas/orbe.png
+Recall/Assets/Inimigos/Sentinelas/orbe.png.meta
+Recall/Assets/Inimigos/Sentinelas/Sentinela.controller
+Recall/Assets/Inimigos/Sentinelas/Sentinela.controller.meta
+Recall/Assets/Inimigos/Sentinelas/Sentinela_Fly.anim
+Recall/Assets/Inimigos/Sentinelas/Sentinela_Fly.anim.meta
+Recall/Assets/Inimigos/Sentinelas/SentinelaMorre.anim
+Recall/Assets/Inimigos/Sentinelas/SentinelaMorre.anim.meta
+Recall/Assets/Inimigos/Soldados.meta
+Recall/Assets/Inimigos/Soldados/AgenteAndando.png
+Recall/Assets/Inimigos/Soldados/AgenteAndando.png.meta
+Recall/Assets/Inimigos/Soldados/AgenteAtirando.png
+Recall/Assets/Inimigos/Soldados/AgenteAtirando.png.meta
+Recall/Assets/Inimigos/Soldados/AgenteMorrendo.png
+Recall/Assets/Inimigos/Soldados/AgenteMorrendo.png.meta
+Recall/Assets/Jogador.meta
+Recall/Assets/Jogador/Armamento.meta
+Recall/Assets/Jogador/Armamento/Arm.png
+Recall/Assets/Jogador/Armamento/Arm.png.meta
+Recall/Assets/Jogador/Armamento/BalaJogador.png
+Recall/Assets/Jogador/Armamento/BalaJogador.png.meta
+Recall/Assets/Jogador/Armamento/BalaJogador.prefab
+Recall/Assets/Jogador/Armamento/BalaJogador.prefab.meta
+Recall/Assets/Jogador/Armamento/BulletTrail.prefab
+Recall/Assets/Jogador/Armamento/BulletTrail.prefab.meta
+Recall/Assets/Jogador/Armamento/BulletTrailMat.mat
+Recall/Assets/Jogador/Armamento/BulletTrailMat.mat.meta
+Recall/Assets/Jogador/Armamento/HitParticle.prefab
+Recall/Assets/Jogador/Armamento/HitParticle.prefab.meta
+Recall/Assets/Jogador/Armamento/MuzzleFlash 1.prefab
+Recall/Assets/Jogador/Armamento/MuzzleFlash 1.prefab.meta
+Recall/Assets/Jogador/Armamento/MuzzleFlash.jpg
+Recall/Assets/Jogador/Armamento/MuzzleFlash.jpg.meta
+Recall/Assets/Jogador/Armamento/MuzzleFlash.prefab
+Recall/Assets/Jogador/Armamento/MuzzleFlash.prefab.meta
+Recall/Assets/Jogador/Armamento/Particles.mat
+Recall/Assets/Jogador/Armamento/Particles.mat.meta
+Recall/Assets/Jogador/Sprites.meta
+Recall/Assets/Jogador/Sprites/Anim.meta
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Idle.anim
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Idle.anim.meta
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Jump.anim
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Jump.anim.meta
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Run.anim
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Run.anim.meta
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Walk.anim
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Walk.anim.meta
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Walk_Perfil.anim
+Recall/Assets/Jogador/Sprites/Anim/Douglas_Walk_Perfil.anim.meta
+Recall/Assets/Jogador/Sprites/Anim/Player.controller
+Recall/Assets/Jogador/Sprites/Anim/Player.controller.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/braçoDireito 1.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/braçoDireito 1.png.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/braçoDireito(sem arma) 1.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/braçoDireito(sem arma) 1.png.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/Doug Run Perfil.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/Doug Run Perfil.png.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/Doug Walk Perfil.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/Doug Walk Perfil.png.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/Idle Doug.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/Idle Doug.png.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/pulo1.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/pulo1.png.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/pulo2.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/pulo2.png.meta
+Recall/Assets/Jogador/Sprites/Sprites_Novos/pulo3.png
+Recall/Assets/Jogador/Sprites/Sprites_Novos/pulo3.png.meta
+Recall/Assets/Plugins.meta
+Recall/Assets/Plugins/Android.meta
+Recall/Assets/Plugins/Android/fmod.jar
+Recall/Assets/Plugins/Android/fmod.jar.meta
+Recall/Assets/Plugins/Android/libs.meta
+Recall/Assets/Plugins/Android/libs/armeabi-v7a.meta
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmod.so
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmod.so.meta
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmodL.so
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmodL.so.meta
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmodstudio.so
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmodstudio.so.meta
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmodstudioL.so
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libfmodstudioL.so.meta
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libgvraudio.so
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libgvraudio.so.meta
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libresonanceaudio.so
+Recall/Assets/Plugins/Android/libs/armeabi-v7a/libresonanceaudio.so.meta
+Recall/Assets/Plugins/Android/libs/x86.meta
+Recall/Assets/Plugins/Android/libs/x86/libfmod.so
+Recall/Assets/Plugins/Android/libs/x86/libfmod.so.meta
+Recall/Assets/Plugins/Android/libs/x86/libfmodL.so
+Recall/Assets/Plugins/Android/libs/x86/libfmodL.so.meta
+Recall/Assets/Plugins/Android/libs/x86/libfmodstudio.so
+Recall/Assets/Plugins/Android/libs/x86/libfmodstudio.so.meta
+Recall/Assets/Plugins/Android/libs/x86/libfmodstudioL.so
+Recall/Assets/Plugins/Android/libs/x86/libfmodstudioL.so.meta
+Recall/Assets/Plugins/Android/libs/x86/libgvraudio.so
+Recall/Assets/Plugins/Android/libs/x86/libgvraudio.so.meta
+Recall/Assets/Plugins/Android/libs/x86/libresonanceaudio.so
+Recall/Assets/Plugins/Android/libs/x86/libresonanceaudio.so.meta
+Recall/Assets/Plugins/Editor.meta
+Recall/Assets/Plugins/Editor/FMOD.meta
+Recall/Assets/Plugins/Editor/FMOD/BankRefDrawer.cs
+Recall/Assets/Plugins/Editor/FMOD/BankRefDrawer.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/CreateEventPopup.cs
+Recall/Assets/Plugins/Editor/FMOD/CreateEventPopup.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EditorBankRef.cs
+Recall/Assets/Plugins/Editor/FMOD/EditorBankRef.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EditorEventRef.cs
+Recall/Assets/Plugins/Editor/FMOD/EditorEventRef.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EditorParamRef.cs
+Recall/Assets/Plugins/Editor/FMOD/EditorParamRef.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EditorUtils.cs
+Recall/Assets/Plugins/Editor/FMOD/EditorUtils.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EventBrowser.cs
+Recall/Assets/Plugins/Editor/FMOD/EventBrowser.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EventCache.cs
+Recall/Assets/Plugins/Editor/FMOD/EventCache.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EventManager.cs
+Recall/Assets/Plugins/Editor/FMOD/EventManager.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/EventRefDrawer.cs
+Recall/Assets/Plugins/Editor/FMOD/EventRefDrawer.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/FindAndReplace.cs
+Recall/Assets/Plugins/Editor/FMOD/FindAndReplace.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/LogViewer.cs
+Recall/Assets/Plugins/Editor/FMOD/LogViewer.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/MigrationUtil.cs
+Recall/Assets/Plugins/Editor/FMOD/MigrationUtil.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/ParamRefDrawer.cs
+Recall/Assets/Plugins/Editor/FMOD/ParamRefDrawer.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/SettingsEditor.cs
+Recall/Assets/Plugins/Editor/FMOD/SettingsEditor.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/StudioBankLoaderEditor.cs
+Recall/Assets/Plugins/Editor/FMOD/StudioBankLoaderEditor.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/StudioEventEmitterEditor.cs
+Recall/Assets/Plugins/Editor/FMOD/StudioEventEmitterEditor.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/StudioEventEmitterGizmoDrawer.cs
+Recall/Assets/Plugins/Editor/FMOD/StudioEventEmitterGizmoDrawer.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/StudioListenerEditor.cs
+Recall/Assets/Plugins/Editor/FMOD/StudioListenerEditor.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/StudioParameterTriggerEditor.cs
+Recall/Assets/Plugins/Editor/FMOD/StudioParameterTriggerEditor.cs.meta
+Recall/Assets/Plugins/Editor/FMOD/Timeline.meta
+Recall/Assets/Plugins/Editor/FMOD/Timeline/FMODEventPlayableEditor.cs
+Recall/Assets/Plugins/Editor/FMOD/Timeline/FMODEventPlayableEditor.cs.meta
+Recall/Assets/Plugins/FMOD.meta
+Recall/Assets/Plugins/FMOD/BankRefAttribute.cs
+Recall/Assets/Plugins/FMOD/BankRefAttribute.cs.meta
+Recall/Assets/Plugins/FMOD/EventRefAttribute.cs
+Recall/Assets/Plugins/FMOD/EventRefAttribute.cs.meta
+Recall/Assets/Plugins/FMOD/FMOD_Listener.cs
+Recall/Assets/Plugins/FMOD/FMOD_Listener.cs.meta
+Recall/Assets/Plugins/FMOD/FMOD_StudioEventEmitter.cs
+Recall/Assets/Plugins/FMOD/FMOD_StudioEventEmitter.cs.meta
+Recall/Assets/Plugins/FMOD/FMODAsset.cs
+Recall/Assets/Plugins/FMOD/FMODAsset.cs.meta
+Recall/Assets/Plugins/FMOD/fmodplugins.cpp
+Recall/Assets/Plugins/FMOD/fmodplugins.cpp.meta
+Recall/Assets/Plugins/FMOD/LICENSE.TXT
+Recall/Assets/Plugins/FMOD/LICENSE.TXT.meta
+Recall/Assets/Plugins/FMOD/OneshotList.cs
+Recall/Assets/Plugins/FMOD/OneshotList.cs.meta
+Recall/Assets/Plugins/FMOD/ParamRef.cs
+Recall/Assets/Plugins/FMOD/ParamRef.cs.meta
+Recall/Assets/Plugins/FMOD/RuntimeManager.cs
+Recall/Assets/Plugins/FMOD/RuntimeManager.cs.meta
+Recall/Assets/Plugins/FMOD/RuntimeUtils.cs
+Recall/Assets/Plugins/FMOD/RuntimeUtils.cs.meta
+Recall/Assets/Plugins/FMOD/Settings.cs
+Recall/Assets/Plugins/FMOD/Settings.cs.meta
+Recall/Assets/Plugins/FMOD/StudioBankLoader.cs
+Recall/Assets/Plugins/FMOD/StudioBankLoader.cs.meta
+Recall/Assets/Plugins/FMOD/StudioEventEmitter.cs
+Recall/Assets/Plugins/FMOD/StudioEventEmitter.cs.meta
+Recall/Assets/Plugins/FMOD/StudioListener.cs
+Recall/Assets/Plugins/FMOD/StudioListener.cs.meta
+Recall/Assets/Plugins/FMOD/StudioParameterTrigger.cs
+Recall/Assets/Plugins/FMOD/StudioParameterTrigger.cs.meta
+Recall/Assets/Plugins/FMOD/Timeline.meta
+Recall/Assets/Plugins/FMOD/Timeline/FMODEventPlayable.cs
+Recall/Assets/Plugins/FMOD/Timeline/FMODEventPlayable.cs.meta
+Recall/Assets/Plugins/FMOD/Timeline/FMODEventTrack.cs
+Recall/Assets/Plugins/FMOD/Timeline/FMODEventTrack.cs.meta
+Recall/Assets/Plugins/FMOD/Wrapper.meta
+Recall/Assets/Plugins/FMOD/Wrapper/fmod.cs
+Recall/Assets/Plugins/FMOD/Wrapper/fmod.cs.meta
+Recall/Assets/Plugins/FMOD/Wrapper/fmod_dsp.cs
+Recall/Assets/Plugins/FMOD/Wrapper/fmod_dsp.cs.meta
+Recall/Assets/Plugins/FMOD/Wrapper/fmod_errors.cs
+Recall/Assets/Plugins/FMOD/Wrapper/fmod_errors.cs.meta
+Recall/Assets/Plugins/FMOD/Wrapper/fmod_studio.cs
+Recall/Assets/Plugins/FMOD/Wrapper/fmod_studio.cs.meta
+Recall/Assets/Plugins/fmodstudio.bundle.meta
+Recall/Assets/Plugins/fmodstudio.bundle/Contents.meta
+Recall/Assets/Plugins/fmodstudio.bundle/Contents/MacOS.meta
+Recall/Assets/Plugins/fmodstudio.bundle/Contents/MacOS/fmodstudio
+Recall/Assets/Plugins/fmodstudio.bundle/Contents/MacOS/fmodstudio.meta
+Recall/Assets/Plugins/fmodstudioL.bundle.meta
+Recall/Assets/Plugins/fmodstudioL.bundle/Contents.meta
+Recall/Assets/Plugins/fmodstudioL.bundle/Contents/MacOS.meta
+Recall/Assets/Plugins/fmodstudioL.bundle/Contents/MacOS/fmodstudioL
+Recall/Assets/Plugins/fmodstudioL.bundle/Contents/MacOS/fmodstudioL.meta
+Recall/Assets/Plugins/gvraudio.bundle.meta
+Recall/Assets/Plugins/gvraudio.bundle/Contents.meta
+Recall/Assets/Plugins/gvraudio.bundle/Contents/MacOS.meta
+Recall/Assets/Plugins/gvraudio.bundle/Contents/MacOS/gvraudio
+Recall/Assets/Plugins/gvraudio.bundle/Contents/MacOS/gvraudio.meta
+Recall/Assets/Plugins/iOS.meta
+Recall/Assets/Plugins/iOS/libfmodstudiounityplugin.a
+Recall/Assets/Plugins/iOS/libfmodstudiounityplugin.a.meta
+Recall/Assets/Plugins/iOS/libfmodstudiounitypluginL.a
+Recall/Assets/Plugins/iOS/libfmodstudiounitypluginL.a.meta
+Recall/Assets/Plugins/iOS/libgvraudio.a
+Recall/Assets/Plugins/iOS/libgvraudio.a.meta
+Recall/Assets/Plugins/iOS/libresonanceaudio.a
+Recall/Assets/Plugins/iOS/libresonanceaudio.a.meta
+Recall/Assets/Plugins/resonanceaudio.bundle.meta
+Recall/Assets/Plugins/resonanceaudio.bundle/Contents.meta
+Recall/Assets/Plugins/resonanceaudio.bundle/Contents/MacOS.meta
+Recall/Assets/Plugins/resonanceaudio.bundle/Contents/MacOS/resonanceaudio
+Recall/Assets/Plugins/resonanceaudio.bundle/Contents/MacOS/resonanceaudio.meta
+Recall/Assets/Plugins/tvOS.meta
+Recall/Assets/Plugins/tvOS/libfmodstudiounityplugin.a
+Recall/Assets/Plugins/tvOS/libfmodstudiounityplugin.a.meta
+Recall/Assets/Plugins/tvOS/libfmodstudiounitypluginL.a
+Recall/Assets/Plugins/tvOS/libfmodstudiounitypluginL.a.meta
+Recall/Assets/Plugins/UWP.meta
+Recall/Assets/Plugins/UWP/arm.meta
+Recall/Assets/Plugins/UWP/arm/fmod.dll
+Recall/Assets/Plugins/UWP/arm/fmod.dll.meta
+Recall/Assets/Plugins/UWP/arm/fmodstudio.dll
+Recall/Assets/Plugins/UWP/arm/fmodstudio.dll.meta
+Recall/Assets/Plugins/UWP/x64.meta
+Recall/Assets/Plugins/UWP/x64/fmod.dll
+Recall/Assets/Plugins/UWP/x64/fmod.dll.meta
+Recall/Assets/Plugins/UWP/x64/fmodstudio.dll
+Recall/Assets/Plugins/UWP/x64/fmodstudio.dll.meta
+Recall/Assets/Plugins/UWP/x86.meta
+Recall/Assets/Plugins/UWP/x86/fmod.dll
+Recall/Assets/Plugins/UWP/x86/fmod.dll.meta
+Recall/Assets/Plugins/UWP/x86/fmodstudio.dll
+Recall/Assets/Plugins/UWP/x86/fmodstudio.dll.meta
+Recall/Assets/Plugins/WebGL.meta
+Recall/Assets/Plugins/WebGL/libfmodstudiounityplugin.bc
+Recall/Assets/Plugins/WebGL/libfmodstudiounityplugin.bc.meta
+Recall/Assets/Plugins/WebGL/libfmodstudiounitypluginL.bc
+Recall/Assets/Plugins/WebGL/libfmodstudiounitypluginL.bc.meta
+Recall/Assets/Plugins/x86.meta
+Recall/Assets/Plugins/x86/fmodstudio.dll
+Recall/Assets/Plugins/x86/fmodstudio.dll.meta
+Recall/Assets/Plugins/x86/fmodstudiol.dll
+Recall/Assets/Plugins/x86/fmodstudiol.dll.meta
+Recall/Assets/Plugins/x86/gvraudio.dll
+Recall/Assets/Plugins/x86/gvraudio.dll.meta
+Recall/Assets/Plugins/x86/libfmod.so
+Recall/Assets/Plugins/x86/libfmod.so.meta
+Recall/Assets/Plugins/x86/libfmodL.so
+Recall/Assets/Plugins/x86/libfmodL.so.meta
+Recall/Assets/Plugins/x86/libfmodstudio.so
+Recall/Assets/Plugins/x86/libfmodstudio.so.meta
+Recall/Assets/Plugins/x86/libfmodstudioL.so
+Recall/Assets/Plugins/x86/libfmodstudioL.so.meta
+Recall/Assets/Plugins/x86/resonanceaudio.dll
+Recall/Assets/Plugins/x86/resonanceaudio.dll.meta
+Recall/Assets/Plugins/x86_64.meta
+Recall/Assets/Plugins/x86_64/fmodstudio.dll
+Recall/Assets/Plugins/x86_64/fmodstudio.dll.meta
+Recall/Assets/Plugins/x86_64/fmodstudiol.dll
+Recall/Assets/Plugins/x86_64/fmodstudiol.dll.meta
+Recall/Assets/Plugins/x86_64/gvraudio.dll
+Recall/Assets/Plugins/x86_64/gvraudio.dll.meta
+Recall/Assets/Plugins/x86_64/libfmod.so
+Recall/Assets/Plugins/x86_64/libfmod.so.meta
+Recall/Assets/Plugins/x86_64/libfmodL.so
+Recall/Assets/Plugins/x86_64/libfmodL.so.meta
+Recall/Assets/Plugins/x86_64/libfmodstudio.so
+Recall/Assets/Plugins/x86_64/libfmodstudio.so.meta
+Recall/Assets/Plugins/x86_64/libfmodstudioL.so
+Recall/Assets/Plugins/x86_64/libfmodstudioL.so.meta
+Recall/Assets/Plugins/x86_64/libgvraudio.so
+Recall/Assets/Plugins/x86_64/libgvraudio.so.meta
+Recall/Assets/Plugins/x86_64/libresonanceaudio.so
+Recall/Assets/Plugins/x86_64/libresonanceaudio.so.meta
+Recall/Assets/Plugins/x86_64/resonanceaudio.dll
+Recall/Assets/Plugins/x86_64/resonanceaudio.dll.meta
+Recall/Assets/Prefabs.meta
+Recall/Assets/Prefabs/Bala.prefab
+Recall/Assets/Prefabs/Bala.prefab.meta
+Recall/Assets/Prefabs/BalaJogador.prefab
+Recall/Assets/Prefabs/BalaJogador.prefab.meta
+Recall/Assets/Prefabs/Cinemachine.prefab
+Recall/Assets/Prefabs/Cinemachine.prefab.meta
+Recall/Assets/Prefabs/CM vcam1.prefab
+Recall/Assets/Prefabs/CM vcam1.prefab.meta
+Recall/Assets/Prefabs/Inimigo.prefab
+Recall/Assets/Prefabs/Inimigo.prefab.meta
+Recall/Assets/Prefabs/Killzone.prefab
+Recall/Assets/Prefabs/Killzone.prefab.meta
+Recall/Assets/Prefabs/Limite.prefab
+Recall/Assets/Prefabs/Limite.prefab.meta
+Recall/Assets/Prefabs/Player 1.prefab
+Recall/Assets/Prefabs/Player 1.prefab.meta
+Recall/Assets/Prefabs/Player 2.prefab
+Recall/Assets/Prefabs/Player 2.prefab.meta
+Recall/Assets/Prefabs/Player.prefab
+Recall/Assets/Prefabs/Player.prefab.meta
+Recall/Assets/Prefabs/Sentinela.prefab
+Recall/Assets/Prefabs/Sentinela.prefab.meta
+Recall/Assets/ProCore.meta
+Recall/Assets/ProCore/ProGrids.meta
+Recall/Assets/ProCore/ProGrids/About.meta
+Recall/Assets/ProCore/ProGrids/About/changelog.txt
+Recall/Assets/ProCore/ProGrids/About/changelog.txt.meta
+Recall/Assets/ProCore/ProGrids/About/Editor.meta
+Recall/Assets/ProCore/ProGrids/About/Editor/pg_AboutWindow.cs
+Recall/Assets/ProCore/ProGrids/About/Editor/pg_AboutWindow.cs.meta
+Recall/Assets/ProCore/ProGrids/About/Images.meta
+Recall/Assets/ProCore/ProGrids/About/Images/Banner.png
+Recall/Assets/ProCore/ProGrids/About/Images/Banner.png.meta
+Recall/Assets/ProCore/ProGrids/About/Images/ProBuilder_AssetStore_Icon_96px.png
+Recall/Assets/ProCore/ProGrids/About/Images/ProBuilder_AssetStore_Icon_96px.png.meta
+Recall/Assets/ProCore/ProGrids/About/Images/ProGrids_AssetStore_Icon_96px.png
+Recall/Assets/ProCore/ProGrids/About/Images/ProGrids_AssetStore_Icon_96px.png.meta
+Recall/Assets/ProCore/ProGrids/About/Images/ProGroups_AssetStore_Icon_96px.png
+Recall/Assets/ProCore/ProGrids/About/Images/ProGroups_AssetStore_Icon_96px.png.meta
+Recall/Assets/ProCore/ProGrids/About/Images/Prototype_AssetStore_Icon_96px.png
+Recall/Assets/ProCore/ProGrids/About/Images/Prototype_AssetStore_Icon_96px.png.meta
+Recall/Assets/ProCore/ProGrids/About/Images/QuickBrush_AssetStore_Icon_96px.png
+Recall/Assets/ProCore/ProGrids/About/Images/QuickBrush_AssetStore_Icon_96px.png.meta
+Recall/Assets/ProCore/ProGrids/About/Images/QuickDecals_AssetStore_Icon_96px.png
+Recall/Assets/ProCore/ProGrids/About/Images/QuickDecals_AssetStore_Icon_96px.png.meta
+Recall/Assets/ProCore/ProGrids/About/Images/QuickEdit_AssetStore_Icon_96px.png
+Recall/Assets/ProCore/ProGrids/About/Images/QuickEdit_AssetStore_Icon_96px.png.meta
+Recall/Assets/ProCore/ProGrids/About/pc_AboutEntry_ProGrids.txt
+Recall/Assets/ProCore/ProGrids/About/pc_AboutEntry_ProGrids.txt.meta
+Recall/Assets/ProCore/ProGrids/Classes.meta
+Recall/Assets/ProCore/ProGrids/Classes/pg_Constant.cs
+Recall/Assets/ProCore/ProGrids/Classes/pg_Constant.cs.meta
+Recall/Assets/ProCore/ProGrids/Classes/pg_Enum.cs
+Recall/Assets/ProCore/ProGrids/Classes/pg_Enum.cs.meta
+Recall/Assets/ProCore/ProGrids/Classes/pg_IconUtility.cs
+Recall/Assets/ProCore/ProGrids/Classes/pg_IconUtility.cs.meta
+Recall/Assets/ProCore/ProGrids/Classes/pg_IgnoreSnapAttribute.cs
+Recall/Assets/ProCore/ProGrids/Classes/pg_IgnoreSnapAttribute.cs.meta
+Recall/Assets/ProCore/ProGrids/Classes/pg_SceneMeshRender.cs
+Recall/Assets/ProCore/ProGrids/Classes/pg_SceneMeshRender.cs.meta
+Recall/Assets/ProCore/ProGrids/Classes/pg_Util.cs
+Recall/Assets/ProCore/ProGrids/Classes/pg_Util.cs.meta
+Recall/Assets/ProCore/ProGrids/Editor.meta
+Recall/Assets/ProCore/ProGrids/Editor/pg_Editor.cs
+Recall/Assets/ProCore/ProGrids/Editor/pg_Editor.cs.meta
+Recall/Assets/ProCore/ProGrids/Editor/pg_GridRenderer.cs
+Recall/Assets/ProCore/ProGrids/Editor/pg_GridRenderer.cs.meta
+Recall/Assets/ProCore/ProGrids/Editor/pg_ParameterWindow.cs
+Recall/Assets/ProCore/ProGrids/Editor/pg_ParameterWindow.cs.meta
+Recall/Assets/ProCore/ProGrids/Editor/pg_Preferences.cs
+Recall/Assets/ProCore/ProGrids/Editor/pg_Preferences.cs.meta
+Recall/Assets/ProCore/ProGrids/Editor/pg_ToggleContent.cs
+Recall/Assets/ProCore/ProGrids/Editor/pg_ToggleContent.cs.meta
+Recall/Assets/ProCore/ProGrids/GUI.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Hover.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Hover.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Normal.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_Button_Normal.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_AngleVis_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Divider.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Divider.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_3D_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Lock_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_X_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Y_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PGrid_Z_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Normal.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Normal.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Pressed.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_PushToGrid_Pressed.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Snap_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_Off.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_Off.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_On.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_GUI_Vis_On.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Close.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Close.png.meta
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Open.png
+Recall/Assets/ProCore/ProGrids/GUI/ProGridsToggles/ProGrids2_MenuExtendo_Open.png.meta
+Recall/Assets/ProCore/ProGrids/MonoBehaviour.meta
+Recall/Assets/ProCore/ProGrids/MonoBehaviour/pg_IgnoreSnap.cs
+Recall/Assets/ProCore/ProGrids/MonoBehaviour/pg_IgnoreSnap.cs.meta
+Recall/Assets/ProCore/ProGrids/ProGrids_Documentation.pdf
+Recall/Assets/ProCore/ProGrids/ProGrids_Documentation.pdf.meta
+Recall/Assets/ProCore/ProGrids/Shader.meta
+Recall/Assets/ProCore/ProGrids/Shader/pg_GridShader.shader
+Recall/Assets/ProCore/ProGrids/Shader/pg_GridShader.shader.meta
+Recall/Assets/ResonanceAudio.meta
+Recall/Assets/ResonanceAudio/Editor.meta
+Recall/Assets/ResonanceAudio/Editor/FmodResonanceAudioRoomEditor.cs
+Recall/Assets/ResonanceAudio/Editor/FmodResonanceAudioRoomEditor.cs.meta
+Recall/Assets/ResonanceAudio/Scripts.meta
+Recall/Assets/ResonanceAudio/Scripts/FmodResonanceAudio.cs
+Recall/Assets/ResonanceAudio/Scripts/FmodResonanceAudio.cs.meta
+Recall/Assets/ResonanceAudio/Scripts/FmodResonanceAudioRoom.cs
+Recall/Assets/ResonanceAudio/Scripts/FmodResonanceAudioRoom.cs.meta
+Recall/Assets/Resources.meta
+Recall/Assets/Resources/FMODStudioSettings.asset
+Recall/Assets/Resources/FMODStudioSettings.asset.meta
+Recall/Assets/Scenes.meta
+Recall/Assets/Scenes/Limbo.unity
+Recall/Assets/Scenes/Limbo.unity.meta
+Recall/Assets/Scenes/Menu Inicial.unity
+Recall/Assets/Scenes/Menu Inicial.unity.meta
+Recall/Assets/Scenes/Metrô.unity
+Recall/Assets/Scenes/Metrô.unity.meta
+Recall/Assets/Scenes/Porta 1.unity
+Recall/Assets/Scenes/Porta 1.unity.meta
+Recall/Assets/Scenes/Porta 2.unity
+Recall/Assets/Scenes/Porta 2.unity.meta
+Recall/Assets/Scripts.meta
+Recall/Assets/Scripts/Agente.cs
+Recall/Assets/Scripts/Agente.cs.meta
+Recall/Assets/Scripts/ArmRotation.cs
+Recall/Assets/Scripts/ArmRotation.cs.meta
+Recall/Assets/Scripts/Bala.cs
+Recall/Assets/Scripts/Bala.cs.meta
+Recall/Assets/Scripts/BracoPisca.cs
+Recall/Assets/Scripts/BracoPisca.cs.meta
+Recall/Assets/Scripts/CameraShake.cs
+Recall/Assets/Scripts/CameraShake.cs.meta
+Recall/Assets/Scripts/ColisaoInimigo.cs
+Recall/Assets/Scripts/ColisaoInimigo.cs.meta
+Recall/Assets/Scripts/FmodPlayer.cs
+Recall/Assets/Scripts/FmodPlayer.cs.meta
+Recall/Assets/Scripts/InterageSophia.cs
+Recall/Assets/Scripts/InterageSophia.cs.meta
+Recall/Assets/Scripts/Jogador.cs
+Recall/Assets/Scripts/Jogador.cs.meta
+Recall/Assets/Scripts/JogadorTrigger.cs
+Recall/Assets/Scripts/JogadorTrigger.cs.meta
+Recall/Assets/Scripts/MainMenu.cs
+Recall/Assets/Scripts/MainMenu.cs.meta
+Recall/Assets/Scripts/Menu.cs
+Recall/Assets/Scripts/Menu.cs.meta
+Recall/Assets/Scripts/MoveScenes.cs
+Recall/Assets/Scripts/MoveScenes.cs.meta
+Recall/Assets/Scripts/MoveTrail.cs
+Recall/Assets/Scripts/MoveTrail.cs.meta
+Recall/Assets/Scripts/PlayButton.cs
+Recall/Assets/Scripts/PlayButton.cs.meta
+Recall/Assets/Scripts/Restarter.cs
+Recall/Assets/Scripts/Restarter.cs.meta
+Recall/Assets/Scripts/Sentinela.cs
+Recall/Assets/Scripts/Sentinela.cs.meta
+Recall/Assets/Scripts/Spawn.cs
+Recall/Assets/Scripts/Spawn.cs.meta
+Recall/Assets/Scripts/Weapon.cs
+Recall/Assets/Scripts/Weapon.cs.meta
+Recall/Assets/Sprites_Antigos.meta
+Recall/Assets/Sprites_Antigos/Arm.png
+Recall/Assets/Sprites_Antigos/Arm.png.meta
+Recall/Assets/Sprites_Antigos/AstronautSpriteAtlas.png
+Recall/Assets/Sprites_Antigos/AstronautSpriteAtlas.png.meta
+Recall/Assets/Sprites_Antigos/braco 1.png
+Recall/Assets/Sprites_Antigos/braco 1.png.meta
+Recall/Assets/Sprites_Antigos/braco.png
+Recall/Assets/Sprites_Antigos/braco.png.meta
+Recall/Assets/Sprites_Antigos/Doug perfil walk.png
+Recall/Assets/Sprites_Antigos/Doug perfil walk.png.meta
+Recall/Assets/Sprites_Antigos/Douglas_Walk.png
+Recall/Assets/Sprites_Antigos/Douglas_Walk.png.meta
+Recall/Assets/Sprites_Antigos/Idle Doug.png
+Recall/Assets/Sprites_Antigos/Idle Doug.png.meta
+Recall/Assets/Sprites_Antigos/Jogador.physicsMaterial2D
+Recall/Assets/Sprites_Antigos/Jogador.physicsMaterial2D.meta
+Recall/Assets/Sprites_Antigos/Player.png
+Recall/Assets/Sprites_Antigos/Player.png.meta
+Recall/Assets/Sprites_Antigos/Quadrado.png
+Recall/Assets/Sprites_Antigos/Quadrado.png.meta
+Recall/Assets/StreamingAssets.meta
+Recall/Assets/StreamingAssets/Master Bank.bank
+Recall/Assets/StreamingAssets/Master Bank.bank.meta
+Recall/Assets/StreamingAssets/Master Bank.strings.bank
+Recall/Assets/StreamingAssets/Master Bank.strings.bank.meta
+Recall/Assets/TextMesh Pro.meta
+Recall/Assets/TextMesh Pro/Documentation.meta
+Recall/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Recall/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Anton OFL.txt
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Anton OFL.txt.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Anton.ttf
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Anton.ttf.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Bangers - OFL.txt
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Bangers - OFL.txt.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Bangers.ttf
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Bangers.ttf.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/LiberationSans - OFL.txt
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/LiberationSans - OFL.txt.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/LiberationSans.ttf
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/LiberationSans.ttf.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Oswald-Bold - OFL.txt
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Oswald-Bold - OFL.txt.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Oswald-Bold.ttf
+Recall/Assets/TextMesh Pro/Examples _ Extras/Fonts/Oswald-Bold.ttf.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Crate - Surface Shader Scene.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Crate - Surface Shader Scene.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Ground - Logo Scene.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Ground - Logo Scene.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Ground - Surface Shader Scene.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Ground - Surface Shader Scene.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Small Crate_diffuse.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Materials/Small Crate_diffuse.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Prefabs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Prefabs/Text Popup.prefab
+Recall/Assets/TextMesh Pro/Examples _ Extras/Prefabs/Text Popup.prefab.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+Recall/Assets/TextMesh Pro/Examples _ Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+Recall/Assets/TextMesh Pro/Examples _ Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Anton SDF - Drop Shadow.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Anton SDF - Drop Shadow.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Anton SDF - Outline.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Anton SDF - Outline.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Anton SDF.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Anton SDF.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF - Drop Shadow.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF - Drop Shadow.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF - Outline.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF - Outline.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF Glow.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF Glow.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF Logo.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF Logo.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Bangers SDF.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Electronic Highway Sign SDF.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Electronic Highway Sign SDF.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/LiberationSans SDF - Metalic Green.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/LiberationSans SDF - Metalic Green.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/LiberationSans SDF - Overlay.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/LiberationSans SDF - Overlay.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/LiberationSans SDF - Soft Mask.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/LiberationSans SDF - Soft Mask.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Oswald Bold SDF.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Oswald Bold SDF.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Roboto-Bold SDF - Drop Shadow.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Roboto-Bold SDF - Drop Shadow.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Roboto-Bold SDF - Surface.mat
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Roboto-Bold SDF - Surface.mat.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Roboto-Bold SDF.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Fonts _ Materials/Roboto-Bold SDF.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Sprite Assets.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Sprite Assets/Default Sprite Asset.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Sprite Assets/Default Sprite Asset.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Sprite Assets/DropCap Numbers.asset
+Recall/Assets/TextMesh Pro/Examples _ Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/01-  Single Line TextMesh Pro.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/02 - Multi-line TextMesh Pro.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/03 - Line Justification.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/03 - Line Justification.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/04 - Word Wrapping.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/04 - Word Wrapping.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/05 - Style Tags.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/05 - Style Tags.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/06 - Extra Rich Text Examples.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/06 - Extra Rich Text Examples.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/07 - Superscript _ Subscript Example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/07 - Superscript _ Subscript Example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/08 - Improved Text Alignment.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/08 - Improved Text Alignment.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/09 - Margin Tag Example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/09 - Margin Tag Example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/10 - Bullets _ Numbered List Example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/10 - Bullets _ Numbered List Example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/11 - The Style Tag.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/11 - The Style Tag.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/12 - Link Example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/12 - Link Example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/12a - Text Interactions.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/12a - Text Interactions.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/13 - Soft Hyphenation.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/13 - Soft Hyphenation.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/14 - Multi Font _ Sprites.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/14 - Multi Font _ Sprites.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/15 - Inline Graphics _ Sprites.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/15 - Inline Graphics _ Sprites.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/16 - Linked text overflow mode example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/16 - Linked text overflow mode example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/17 - Old Computer Terminal.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/17 - Old Computer Terminal.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/18 - ScrollRect _ Masking _ Layout.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/18 - ScrollRect _ Masking _ Layout.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/19 - Masking Texture _ Soft Mask.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/19 - Masking Texture _ Soft Mask.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/20 - Input Field with Scrollbar.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/20 - Input Field with Scrollbar.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/21 - Script Example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/21 - Script Example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/22 - Basic Scripting Example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/22 - Basic Scripting Example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/23 - Animating Vertex Attributes.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/23 - Animating Vertex Attributes.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/24 - Surface Shader Example.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/24 - Surface Shader Example.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/25 - TextMeshPro Title.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/25 - TextMeshPro Title.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Floating Text).unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Floating Text).unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Point Sizes).unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Point Sizes).unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Script).unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Script).unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Shader Perf).unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Benchmark (Shader Perf).unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Distance Field Shader Check.unity
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scenes/Distance Field Shader Check.unity.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark01.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark01.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark01_UGUI.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark01_UGUI.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark02.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark02.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark03.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark03.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark04.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/Benchmark04.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/CameraController.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/CameraController.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/ChatController.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/ChatController.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/EnvMapAnimator.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/EnvMapAnimator.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/ObjectSpin.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/ObjectSpin.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/ShaderPropAnimator.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/ShaderPropAnimator.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/SimpleScript.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/SimpleScript.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/SkewTextExample.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/SkewTextExample.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TeleType.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TeleType.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TextConsoleSimulator.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TextConsoleSimulator.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TextMeshProFloatingText.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TextMeshProFloatingText.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TextMeshSpawner.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TextMeshSpawner.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_DigitValidator.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_DigitValidator.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_ExampleScript_01.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_ExampleScript_01.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_FrameRateCounter.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_FrameRateCounter.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_PhoneNumberValidator.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_PhoneNumberValidator.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextEventCheck.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextEventCheck.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextEventHandler.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextEventHandler.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextInfoDebugTool.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextInfoDebugTool.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextSelector_A.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextSelector_A.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextSelector_B.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_TextSelector_B.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_UiFrameRateCounter.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMP_UiFrameRateCounter.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMPro_InstructionOverlay.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/TMPro_InstructionOverlay.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexColorCycler.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexColorCycler.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexJitter.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexJitter.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexShakeA.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexShakeA.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexShakeB.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexShakeB.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexZoom.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/VertexZoom.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/WarpTextExample.cs
+Recall/Assets/TextMesh Pro/Examples _ Extras/Scripts/WarpTextExample.cs.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Sprites.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Sprites/Default Sprites.png
+Recall/Assets/TextMesh Pro/Examples _ Extras/Sprites/Default Sprites.png.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Sprites/DropCap Numbers.psd
+Recall/Assets/TextMesh Pro/Examples _ Extras/Sprites/DropCap Numbers.psd.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Brushed Metal 3.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Brushed Metal 3.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Engraved Wall Normal.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Engraved Wall Normal.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Engraved Wall.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Engraved Wall.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Floor Cement.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Floor Cement.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Floor Tiles 1 - diffuse.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Floor Tiles 1 - normal.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Floor Tiles 1 - normal.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Fruit Jelly (B_W).jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Fruit Jelly (B_W).jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Gradient Diagonal (Color).jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Gradient Diagonal (Color).jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Gradient Horizontal (Color).jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Gradient Horizontal (Color).jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Gradient Vertical (Color).jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Gradient Vertical (Color).jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Mask Zig-n-Zag.psd
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Mask Zig-n-Zag.psd.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Sand Normal Map.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Sand Normal Map.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Small Crate_diffuse.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Small Crate_diffuse.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Small Crate_normal.jpg
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Small Crate_normal.jpg.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Stainless 03.png
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Stainless 03.png.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Text Overflow - Linked Text Image 1.png
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Text Overflow - Linked Text Image 1.png.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Text Overflow - Linked Text UI Screenshot.png.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Circle.psd
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Circle.psd.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Diagonal.psd
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Diagonal.psd.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Radial Double.psd
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Radial Double.psd.meta
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Radial Quad.psd
+Recall/Assets/TextMesh Pro/Examples _ Extras/Textures/Wipe Pattern - Radial Quad.psd.meta
+Recall/Assets/TextMesh Pro/Resources.meta
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials.meta
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/LiberationSans SDF - Drop Shadow.mat
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/LiberationSans SDF - Outline.mat
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/LiberationSans SDF - Outline.mat.meta
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/LiberationSans SDF.asset
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/LiberationSans SDF.asset.meta
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/New TMP Color Gradient.asset
+Recall/Assets/TextMesh Pro/Resources/Fonts _ Materials/New TMP Color Gradient.asset.meta
+Recall/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Recall/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Recall/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Recall/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+Recall/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+Recall/Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Recall/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Recall/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Recall/Assets/TextMesh Pro/Resources/Style Sheets.meta
+Recall/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Recall/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Recall/Assets/TextMesh Pro/Resources/TMP Settings.asset
+Recall/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Recall/Assets/TextMesh Pro/Sprites.meta
+Recall/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Recall/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Recall/Assets/TextMesh Pro/Sprites/EmojiOne.json
+Recall/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Recall/Assets/TextMesh Pro/Sprites/EmojiOne.png
+Recall/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/01581BDC.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/193577B1.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/25AFD856.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/3012596A.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/47911AB5.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/4B90A856.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/559EE619.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/55CFD51D.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/588453E8.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/61AFD105.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/629514C7.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/62973AC7.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/7094CD77.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/780D0B2F.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/83993486.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/86D698EF.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/872E3450.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/8B8AAC8E.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/8FDECE7B.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/95E7DA65.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/96109940.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/A1826581.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/A70CE4A0.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/A771B527.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/A79E87FA.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/B5224C45.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/BCFD50C8.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/C763D486.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/C80873B4.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/C957332E.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/D601DA31.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/DDC925FF.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/DE4F1C9A.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/E13FD095.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/E82EF31F.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/ED5449D8.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/FBBF78E0.fobj
+Recall/FMOD/Recall/.cache/fsbcache/Desktop/FE192E92.fobj
+Recall/FMOD/Recall/.cache/{0e8a6b17-dd96-469d-96ca-6c6252bcc803}.pdc
+Recall/FMOD/Recall/.cache/{1631fd5d-0364-48b0-b398-c99b84047428}.pdc
+Recall/FMOD/Recall/.cache/{1ac10e14-f51a-469e-99f5-2612d8a375d6}.pdc
+Recall/FMOD/Recall/.cache/{1b49723f-84a1-49e5-a700-a80feae81f8e}.pdc
+Recall/FMOD/Recall/.cache/{1e0032f8-ddac-418e-a36c-9483c6a5b0cb}.pdc
+Recall/FMOD/Recall/.cache/{2425e15c-c440-4064-a4a0-ed28d88d15f8}.pdc
+Recall/FMOD/Recall/.cache/{24a836ec-2ac0-4f04-bf5f-52b9a99bb287}.pdc
+Recall/FMOD/Recall/.cache/{276b3556-3a03-427f-8a27-c53c9226005d}.pdc
+Recall/FMOD/Recall/.cache/{31eec540-9382-47dd-93d8-eebb1f9bc528}.pdc
+Recall/FMOD/Recall/.cache/{370a35c8-b276-4d2e-a7b3-807c1e75ab16}.pdc
+Recall/FMOD/Recall/.cache/{37dfa4ea-4fcc-41e1-8f1e-05f9b30c3179}.pdc
+Recall/FMOD/Recall/.cache/{3f378071-42c1-48e2-89bf-4bfe8775e969}.pdc
+Recall/FMOD/Recall/.cache/{454ad3e4-d324-46e0-aac8-eddec2bc78d3}.pdc
+Recall/FMOD/Recall/.cache/{4672c036-5c97-458f-a750-f80f1dadeef9}.pdc
+Recall/FMOD/Recall/.cache/{4990218c-3da3-405a-9a03-e8b935aa922e}.pdc
+Recall/FMOD/Recall/.cache/{4ba76d80-5399-494d-9f59-2633c36a6511}.pdc
+Recall/FMOD/Recall/.cache/{5481405e-51df-465b-b38d-d35fc251176e}.pdc
+Recall/FMOD/Recall/.cache/{71c479ab-a03b-4610-a975-3d94c97da507}.pdc
+Recall/FMOD/Recall/.cache/{7607e333-2fb3-4f52-a864-b3afbf812937}.pdc
+Recall/FMOD/Recall/.cache/{7af0398b-34d7-46e0-875a-ff948d7121f6}.pdc
+Recall/FMOD/Recall/.cache/{7de484e1-2d64-4a3f-9393-09ef6fc717cb}.pdc
+Recall/FMOD/Recall/.cache/{854a008f-5a19-4a43-9f2f-491f00a52a3a}.pdc
+Recall/FMOD/Recall/.cache/{a73800fe-e42c-4fb1-a859-98c09c0857f0}.pdc
+Recall/FMOD/Recall/.cache/{adca1aff-d393-43f0-8609-87ddc808d5e9}.pdc
+Recall/FMOD/Recall/.cache/{b1737c04-083f-4ffb-a091-ea0a6c9f5dc6}.pdc
+Recall/FMOD/Recall/.cache/{b5493239-2101-4a06-a08e-e25052e8fd44}.pdc
+Recall/FMOD/Recall/.cache/{bae119e1-6064-4016-8954-0154619153a6}.pdc
+Recall/FMOD/Recall/.cache/{c68251be-5bce-4ff6-a326-065ce16ffe4d}.pdc
+Recall/FMOD/Recall/.cache/{d163303d-8e61-4903-8458-a64e1b9defb9}.pdc
+Recall/FMOD/Recall/.cache/{d2d35bf6-508a-4d66-a57b-5cb812117343}.pdc
+Recall/FMOD/Recall/.cache/{d6aa23dc-ff27-4f8e-8125-764236834a4a}.pdc
+Recall/FMOD/Recall/.cache/{d95e0f0d-310e-4162-9e89-652c81e5dbb8}.pdc
+Recall/FMOD/Recall/.cache/{e8e4be61-da73-4da1-b517-b3c844c61616}.pdc
+Recall/FMOD/Recall/.cache/{eb9198c0-7b26-48d6-b482-abab3b61845b}.pdc
+Recall/FMOD/Recall/.cache/{f1a388da-28e8-4620-9f26-f2811019c5d3}.pdc
+Recall/FMOD/Recall/.cache/{f3e4f187-4105-4551-baa9-a37d66e812d4}.pdc
+Recall/FMOD/Recall/.cache/{f43e21e2-f6c4-4619-9db5-664fb0977699}.pdc
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/ES_String Ambience 3 - Rannar Sillard.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Ether_Oar.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/FL STUDIO/Porta 3.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/FL STUDIO/Porta 3.wav
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/I_Can_t_Remmber_I_Can_t_Recall.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Introspective_Spacewalk.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Musica calma/In_Albany_New_York.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Musica calma/Neither_Sweat_Nor_Tears.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Musica calma/Patent_Doll - rádio.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Musica calma/Rain_On_The_Parade - Freedom Trail Studio - Calm Ambient Song.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Numb_Limb_Lips.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Shibuya.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Strange_Stuff.mp3
+Recall/FMOD/Recall/Assets/INTER 3/MUSICAS/Teste+Música+SYNTH.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/balada/Crowd_Talking.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/balada/Restaurant Ambiance -SoundBible.com-628640170.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/BOMBA/Big_Explosion_Cut_Off.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/BOMBA/Howitzer_Cannon_Fire.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/elevador/135480__shinshi__elevatorcall.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/elevador/66148__the-bloke33__otischime.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Bare_Feet_Walk_on_Wood.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Cimento/ES_High Heels 5 - SFX Producer.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Cimento/ES_High Heels 6 - SFX Producer.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Cimento/ES_Stiletto Heel 5 - SFX Producer.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Dress_Shoe_Jog_on_Gravel.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Dress_Shoe_Jog_on_Wood.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Dress_Shoe_Run_on_Concrete.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Dress_Shoe_Run_on_Gravel.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Dress_Shoe_Run_on_Wood.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Dress_Shoe_Walking_down_stairs.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Dress_Shoes_on_Stairs_Wood.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Footsteps walk metal 1.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Footsteps walk metal 2.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Footsteps_hollow_wood.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Jog_on_concrete.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/pulo concreto/Jump_On_Concrete.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Running_On_Concrete.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Running_On_Grass.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/Footsteps/Walk_Gravel.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/porta 1/Morning_Farm.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/porta 1/Outdoor_Sounds_with_Dog.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/porta 2/Rain_Water_Dripping_Softly.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/radio/Police_Scanner-ScanMan-1157209815.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/telefone/Beeper_Emergency_Call.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/telefone/Busy Signal-SoundBible.com-1695161320.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/telefone/Phone_Ringing_Untraditional.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/TIRO/179673__chrisw92__silenced-gun-shot.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/TIRO/Handgun_Mag_Load.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/TIRO/Laser_Gun.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/TIRO/Load_Magazine_Single_Bullets.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/TIRO/Rifle_Shot_Echo.mp3
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/trem/127818__martats__subway-arrives.wav
+Recall/FMOD/Recall/Assets/INTER 3/SOUND EFFECT/trem/Subway_NYC_In_Motion.mp3
+Recall/FMOD/Recall/Metadata/Asset/{1f516d7b-9948-452b-adfd-1f183ae20a26}.xml
+Recall/FMOD/Recall/Metadata/Asset/{24bd326e-f7bc-4699-be3a-9804325d1099}.xml
+Recall/FMOD/Recall/Metadata/Asset/{3c7ee8b6-e659-469c-8190-498231ee772a}.xml
+Recall/FMOD/Recall/Metadata/Asset/{4317a025-7587-4131-95ec-b28a283368f6}.xml
+Recall/FMOD/Recall/Metadata/Asset/{561a012f-0a66-4df0-b383-91cd4495b3c3}.xml
+Recall/FMOD/Recall/Metadata/Asset/{58ce1b7b-42bf-4e24-95a4-296058f161cd}.xml
+Recall/FMOD/Recall/Metadata/Asset/{6325311a-d719-44dc-98db-8e6d21b4b110}.xml
+Recall/FMOD/Recall/Metadata/Asset/{6ebd4182-0b81-4489-9f4d-9ac87c49079e}.xml
+Recall/FMOD/Recall/Metadata/Asset/{86c45a14-3452-4aff-93e0-41e4b81d5866}.xml
+Recall/FMOD/Recall/Metadata/Asset/{8a24c9fc-e6c2-47c3-a92b-9469eef2ac3c}.xml
+Recall/FMOD/Recall/Metadata/Asset/{9ed1403a-d964-408e-925f-ffe6008bd334}.xml
+Recall/FMOD/Recall/Metadata/Asset/{a170ef1b-9433-4575-952c-03e778d2522b}.xml
+Recall/FMOD/Recall/Metadata/Asset/{baae4880-7425-4a62-b38d-89f5fbad6dcd}.xml
+Recall/FMOD/Recall/Metadata/Asset/{c6379257-f3ec-497c-a0b6-60fae580c639}.xml
+Recall/FMOD/Recall/Metadata/Asset/{c7d3fb21-4996-4f4c-a662-d69911a9545d}.xml
+Recall/FMOD/Recall/Metadata/Asset/{dda2f491-c774-459a-b173-1f4418e69730}.xml
+Recall/FMOD/Recall/Metadata/Asset/{e5625f2a-f2b6-4040-8eae-539bb3c62f73}.xml
+Recall/FMOD/Recall/Metadata/Asset/{f6d8257f-2529-4637-9d59-b09ae7ac4442}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{0e8a6b17-dd96-469d-96ca-6c6252bcc803}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{1631fd5d-0364-48b0-b398-c99b84047428}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{1ac10e14-f51a-469e-99f5-2612d8a375d6}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{1b49723f-84a1-49e5-a700-a80feae81f8e}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{1e0032f8-ddac-418e-a36c-9483c6a5b0cb}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{2425e15c-c440-4064-a4a0-ed28d88d15f8}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{24a836ec-2ac0-4f04-bf5f-52b9a99bb287}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{2698feac-1276-4643-b4ee-7a032fc3a1ea}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{276b3556-3a03-427f-8a27-c53c9226005d}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{313ca53e-d161-4132-a554-4587bfc3459e}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{31eec540-9382-47dd-93d8-eebb1f9bc528}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{370a35c8-b276-4d2e-a7b3-807c1e75ab16}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{37dfa4ea-4fcc-41e1-8f1e-05f9b30c3179}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{3f378071-42c1-48e2-89bf-4bfe8775e969}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{42024552-32d9-4d4f-a386-82e0e371bec1}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{454ad3e4-d324-46e0-aac8-eddec2bc78d3}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{4672c036-5c97-458f-a750-f80f1dadeef9}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{4990218c-3da3-405a-9a03-e8b935aa922e}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{4ba76d80-5399-494d-9f59-2633c36a6511}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{5481405e-51df-465b-b38d-d35fc251176e}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{5915ab2b-4b1d-4c0c-912c-4d82371d2d06}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{5d3bc6b0-69ae-4293-931c-be22e9df2a7a}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{602c5ea1-0a62-46a1-aa73-cd01f617f017}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{64774ed6-84cf-48a6-8a96-7d59aa0f42b0}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{71c479ab-a03b-4610-a975-3d94c97da507}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{74c5888a-ec62-4c42-9bb6-6d923c1400e8}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{7607e333-2fb3-4f52-a864-b3afbf812937}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{7af0398b-34d7-46e0-875a-ff948d7121f6}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{7de484e1-2d64-4a3f-9393-09ef6fc717cb}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{854a008f-5a19-4a43-9f2f-491f00a52a3a}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{8bbc4bef-9549-4280-ba1f-7da59f7b0bb0}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{a73800fe-e42c-4fb1-a859-98c09c0857f0}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{adca1aff-d393-43f0-8609-87ddc808d5e9}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{b1737c04-083f-4ffb-a091-ea0a6c9f5dc6}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{b186a637-b74d-4b25-b74a-9cdc6df771a4}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{b5493239-2101-4a06-a08e-e25052e8fd44}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{b5bbd6ab-a876-4a43-a508-bb4dea74ab9a}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{bae119e1-6064-4016-8954-0154619153a6}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{bb316be5-e75f-4936-9482-6612c269ead3}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{c68251be-5bce-4ff6-a326-065ce16ffe4d}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{c888391d-010e-4d05-9308-20e7c895de12}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{cdc399a6-3533-4ea9-bed0-f1792a4a9e4b}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{d163303d-8e61-4903-8458-a64e1b9defb9}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{d2d35bf6-508a-4d66-a57b-5cb812117343}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{d6aa23dc-ff27-4f8e-8125-764236834a4a}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{d95e0f0d-310e-4162-9e89-652c81e5dbb8}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{e85ed91c-c29b-4ec7-9611-eee626e22cdb}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{e8e4be61-da73-4da1-b517-b3c844c61616}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{eb4ae447-cd6b-468a-9bc0-692f0659c22e}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{eb9198c0-7b26-48d6-b482-abab3b61845b}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{f1a388da-28e8-4620-9f26-f2811019c5d3}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{f3e4f187-4105-4551-baa9-a37d66e812d4}.xml
+Recall/FMOD/Recall/Metadata/AudioFile/{f43e21e2-f6c4-4619-9db5-664fb0977699}.xml
+Recall/FMOD/Recall/Metadata/Bank/{673315f6-aa72-4f99-81fe-edbcc6a62cb0}.xml
+Recall/FMOD/Recall/Metadata/BankFolder/{b8c38aef-a4a9-4682-bd3f-8c1608c54806}.xml
+Recall/FMOD/Recall/Metadata/EffectPresetFolder/{a947876f-8c32-4f52-9793-6ba0eb32202b}.xml
+Recall/FMOD/Recall/Metadata/EncodingSetting/{d9392047-c9cd-4e48-aac9-43c403575407}.xml
+Recall/FMOD/Recall/Metadata/Event/{0800c860-9450-471b-9f96-72142479e915}.xml
+Recall/FMOD/Recall/Metadata/Event/{23233dac-4043-427e-a9cc-ea966581195d}.xml
+Recall/FMOD/Recall/Metadata/Event/{57f2f1cc-74a9-495a-b360-3f4c183be946}.xml
+Recall/FMOD/Recall/Metadata/Event/{6e34ca88-45b6-4e67-a676-113bac1d1121}.xml
+Recall/FMOD/Recall/Metadata/Event/{868c4aaf-f1f2-44cc-8534-a7f3ad36624d}.xml
+Recall/FMOD/Recall/Metadata/Event/{8ba1fdaa-bf01-4df4-9d64-29b59370eb94}.xml
+Recall/FMOD/Recall/Metadata/Event/{bc7198e1-9615-4e3e-bef8-53976a9290c8}.xml
+Recall/FMOD/Recall/Metadata/Event/{bc729136-6606-4b1c-9530-8ee628446ae2}.xml
+Recall/FMOD/Recall/Metadata/Event/{c8f5df1d-f720-45a6-b8cd-218c78a58766}.xml
+Recall/FMOD/Recall/Metadata/Event/{d1acbdd1-4014-4ccb-bd7b-5d73a8d6f00a}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{0c334da9-e9f4-4c40-912a-b623284d4b66}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{36a39860-9e35-4ba9-9957-be2e00d6be36}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{44604285-96ab-43d7-ae1b-2ecff751fc00}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{4bf9ab10-857f-446a-915c-779bff2731a6}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{4cb6f41d-69a6-49f8-a295-4031325e8bfa}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{605cd272-c29f-43bd-adb8-f2061226368b}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{614e12d9-ff03-4742-bf0b-8688c8a33882}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{61f2806a-8bf0-4df9-a370-b1882a5724c6}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{77299ead-3cae-4c82-84e1-cce890b000f5}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{798d70cb-0736-4a3d-8d43-8caebb0eb6b8}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{8f1f8d9f-d2ea-44d0-a696-da342ab51b81}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{9aca3ac3-097c-428d-b22a-b28cd7d76d63}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{a9ef8b83-e3fc-48a4-a934-71f62d7754d4}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{c5406f12-753e-4618-a116-20aafa989f77}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{d0515a59-1b78-4a81-9f91-074696929a3c}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{e11627b1-2335-4d1b-96cf-0476a1692569}.xml
+Recall/FMOD/Recall/Metadata/EventFolder/{f20e8b5f-cca6-436c-a4d3-b2928dca8787}.xml
+Recall/FMOD/Recall/Metadata/Master.xml
+Recall/FMOD/Recall/Metadata/Mixer.xml
+Recall/FMOD/Recall/Metadata/ParameterPreset/{03d8accd-e0a6-4119-9d89-2158a1252ced}.xml
+Recall/FMOD/Recall/Metadata/ParameterPresetFolder/{d6f0f68f-6d2c-4ea8-b323-ced7e3ddd839}.xml
+Recall/FMOD/Recall/Metadata/Platform/{cc1c0af3-957f-464e-a864-891835881c06}.xml
+Recall/FMOD/Recall/Metadata/Return/{552eed34-bee0-4cb1-a7fb-3c746b686c67}.xml
+Recall/FMOD/Recall/Metadata/SnapshotGroup/{88b9a018-a290-419a-95d1-259cdb6cb8c1}.xml
+Recall/FMOD/Recall/Metadata/Tags.xml
+Recall/FMOD/Recall/Metadata/Workspace.xml
+Recall/FMOD/Recall/Recall.fspro
+Recall/fmod_editor.log
+Recall/Packages/manifest.json
+Recall/ProjectSettings/AudioManager.asset
+Recall/ProjectSettings/ClusterInputManager.asset
+Recall/ProjectSettings/DynamicsManager.asset
+Recall/ProjectSettings/EditorBuildSettings.asset
+Recall/ProjectSettings/EditorSettings.asset
+Recall/ProjectSettings/graphicssettings.asset
+Recall/ProjectSettings/InputManager.asset
+Recall/ProjectSettings/NavMeshAreas.asset
+Recall/ProjectSettings/NetworkManager.asset
+Recall/ProjectSettings/Physics2DSettings.asset
+Recall/ProjectSettings/PresetManager.asset
+Recall/ProjectSettings/ProjectSettings.asset
+Recall/ProjectSettings/ProjectVersion.txt
+Recall/ProjectSettings/QualitySettings.asset
+Recall/ProjectSettings/TagManager.asset
+Recall/ProjectSettings/TimeManager.asset
+Recall/ProjectSettings/UnityConnectSettings.asset
