@@ -57,7 +57,7 @@ public class Agente : MonoBehaviour
         duracaoIdle = 2;
         duracaoPatrulhar = 5;
         duracaoAtacar = 2.4f;
-        danoAgente = 0.25f;
+        danoAgente = 0.1f;
 
         sprite = GetComponent<SpriteRenderer>();
     }
@@ -198,13 +198,14 @@ public class Agente : MonoBehaviour
         if (fire && !anim.GetCurrentAnimatorStateInfo(0).IsTag("estaAtirando"))
         {
             anim.SetTrigger("estaAtirando");
+
         }
     }
 
     private void InstanciarProjetil()
     {
         GameObject temp = (Instantiate(PrefabProjetil, instanciador.position, instanciador.rotation));
-
+        FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Inimigos/Handgun", GetComponent<Transform>().position);
         if (eLadoDireito)
         {
             temp.GetComponent<Bala>().Inicializar(Vector2.right);
@@ -226,6 +227,7 @@ public class Agente : MonoBehaviour
 
         if (VidaInimigo < 0.1f)
         {
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Inimigos/Gemido morre", GetComponent<Transform>().position);
             anim.SetBool("morteInimigo", true);
         }
     }

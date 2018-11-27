@@ -26,7 +26,7 @@ public class Sentinela : MonoBehaviour
 
     public GameObject player;
 
-    public static float VidaSentinela;
+    public float VidaSentinela;
     SpriteRenderer sprite;
     Animator anim;
 
@@ -49,9 +49,9 @@ public class Sentinela : MonoBehaviour
 
         sprite = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
-        VidaSentinela = 1f;
+        VidaSentinela = 0.5f;
 
-        danoSentinela = 0.25f;
+        danoSentinela = 0.2f;
         
     }
 
@@ -163,6 +163,7 @@ public class Sentinela : MonoBehaviour
 
         if (VidaSentinela < 0.1f)
         {
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Inimigos/Explosao", GetComponent<Transform>().position);
             anim.SetBool("SentinelaMorre", true);
         }
     }

@@ -54,6 +54,7 @@ public class Bob : MonoBehaviour {
         GameObject temp = (Instantiate(PrefabProjetil, instanciador.position, instanciador.rotation));
 
         temp.GetComponent<Bala>().Inicializar(Vector2.left);
+        FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Inimigos/Handgun", GetComponent<Transform>().position); // som do tiro
     }
 
 

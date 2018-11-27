@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Limbo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Limbo2.unity
+    guid: 568a48aa088dbaf44a48d80e97584985
+  - enabled: 1
+    path: Assets/Scenes/Limbo3.unity
+    guid: afe5c8aafa60f704790b9221acbddd39
+  - enabled: 1
     path: Assets/Scenes/Porta 1.unity
     guid: ed4ff3ff067dc3640b6db9abc6e25699
   - enabled: 1

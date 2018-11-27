@@ -2,10 +2,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FmodPlayer : MonoBehaviour
 {
-    FMOD.Studio.EventInstance M_Casa, M_Grama, M_Bar, M_Chase;
+    FMOD.Studio.EventInstance M_Casa, M_Grama, M_Bar, M_Chase, M_Sangue;
 
     public enum Estado { MADEIRA, CONCRETO, GRAMA }
     public Estado footstep;
@@ -16,9 +17,9 @@ public class FmodPlayer : MonoBehaviour
         M_Grama = FMODUnity.RuntimeManager.CreateInstance("event:/SOUND TRACK/Porta 1/Grama/Grama");
         M_Bar = FMODUnity.RuntimeManager.CreateInstance("event:/SOUND TRACK/Porta 2/Bar/Bar");
         M_Chase = FMODUnity.RuntimeManager.CreateInstance("event:/SOUND TRACK/Porta 2/Perseguição/Chase");
-
+        M_Sangue = FMODUnity.RuntimeManager.CreateInstance("event:/SOUND TRACK/Porta 1/Sangue/Sangue");
     }
-
+    
     void PlaySound()
     {
         if (footstep == Estado.MADEIRA)
@@ -39,6 +40,16 @@ public class FmodPlayer : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.tag == "Metro1")
+        {
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SOUND TRACK/Metro/Metro 1", GetComponent<Transform>().position);
+        }
+
+        if (collision.tag == "Metro2")
+        {
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SOUND TRACK/Metro/Metro 2", GetComponent<Transform>().position);
+        }
+
         if (collision.tag == "Musica Casa")
         {
             M_Casa.start();
@@ -73,6 +84,11 @@ public class FmodPlayer : MonoBehaviour
         {
             footstep = Estado.GRAMA;
         }
+
+        if (collision.tag == "Limbo3")
+        {
+            M_Chase.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
+        }
     }
 
     void OnTriggerStay2D(Collider2D collision)
@@ -90,6 +106,11 @@ public class FmodPlayer : MonoBehaviour
         if (collision.tag == "Footstep Grama")
         {
             footstep = Estado.GRAMA;
+        }
+
+        if (collision.tag == "Limbo3")
+        {
+            M_Chase.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
         }
     }
 
@@ -110,10 +131,11 @@ public class FmodPlayer : MonoBehaviour
             M_Bar.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
         }
 
-        if (collision.tag == "Musica Chase")
+        if (collision.tag == "Musica Chase" || collision.tag == "Limbo3")
         {
             M_Chase.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
         }
+
 
     }
 }

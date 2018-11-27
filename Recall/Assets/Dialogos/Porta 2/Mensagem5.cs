@@ -16,6 +16,7 @@ public class Mensagem5 : MonoBehaviour {
     private int linhaAtual;
 
     public bool estaAtivo;
+    public static bool mensagem6;
 
     // Use this for initialization
     void Start()
@@ -32,6 +33,7 @@ public class Mensagem5 : MonoBehaviour {
         }
 
         estaAtivo = false;
+        mensagem6 = false;
     }
 
     // Update is called once per frame
@@ -49,6 +51,7 @@ public class Mensagem5 : MonoBehaviour {
             if (linhaAtual < fimDaLinha)
             {
                 textoMensagem.text = texto[linhaAtual];
+                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
             if (panelBox.activeSelf)
             {
@@ -74,5 +77,6 @@ public class Mensagem5 : MonoBehaviour {
         panelBox.SetActive(false);
         estaAtivo = false;
         Destroy(gameObject);
+        mensagem6 = true;
     }
 }

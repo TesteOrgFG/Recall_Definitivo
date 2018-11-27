@@ -9,6 +9,7 @@ public class Mensagem7 : MonoBehaviour {
     [SerializeField] private string newLevel;
 
     Interage7 interagir;
+    Mensagem6 mensagem;
 
     public GameObject panelBox;
     public TextAsset arquivo;
@@ -41,7 +42,7 @@ public class Mensagem7 : MonoBehaviour {
     void Update()
     {
 
-        if (Interage7.Dialogo == true && Interage7.m7 == true)
+        if (Mensagem6.mensagem7 == true)
         {
             Habilitar();
         }
@@ -52,6 +53,7 @@ public class Mensagem7 : MonoBehaviour {
             if (linhaAtual < fimDaLinha)
             {
                 textoMensagem.text = texto[linhaAtual];
+                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
             if (panelBox.activeSelf)
             {

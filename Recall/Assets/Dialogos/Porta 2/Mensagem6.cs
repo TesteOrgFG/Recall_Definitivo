@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Mensagem6 : MonoBehaviour {
 
     Interage6 interagir;
+    Mensagem5 mensagem;
 
     public GameObject panelBox;
     public TextAsset arquivo;
@@ -16,6 +17,7 @@ public class Mensagem6 : MonoBehaviour {
     private int linhaAtual;
 
     public bool estaAtivo;
+    public static bool mensagem7;
 
     // Use this for initialization
     void Start()
@@ -32,13 +34,14 @@ public class Mensagem6 : MonoBehaviour {
         }
 
         estaAtivo = false;
+        mensagem7 = false;
     }
 
     // Update is called once per frame
     void Update()
     {
 
-        if (Interage6.Dialogo == true && Interage6.m6 == true)
+        if (Mensagem5.mensagem6 == true)
         {
             Habilitar();
         }
@@ -49,6 +52,7 @@ public class Mensagem6 : MonoBehaviour {
             if (linhaAtual < fimDaLinha)
             {
                 textoMensagem.text = texto[linhaAtual];
+                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
             if (panelBox.activeSelf)
             {
@@ -74,5 +78,7 @@ public class Mensagem6 : MonoBehaviour {
         panelBox.SetActive(false);
         estaAtivo = false;
         Destroy(gameObject);
+        mensagem7 = true;
     }
 }
+

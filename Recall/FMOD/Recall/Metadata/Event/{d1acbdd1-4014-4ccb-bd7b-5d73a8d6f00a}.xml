@@ -107,7 +107,7 @@
     </object>
     <object class="EventMixerGroup" id="{80d8c43c-4305-4f8b-8937-6a3c0523006d}">
         <property name="volume">
-            <value>-16.5</value>
+            <value>-19.5</value>
         </property>
         <property name="name">
             <value>Audio 1</value>
@@ -136,10 +136,10 @@
             <value>-15</value>
         </property>
         <property name="holdTime">
-            <value>3000</value>
+            <value>1200</value>
         </property>
         <property name="decayTime">
-            <value>3200</value>
+            <value>1400</value>
         </property>
         <property name="sustainValue">
             <value>1.5</value>

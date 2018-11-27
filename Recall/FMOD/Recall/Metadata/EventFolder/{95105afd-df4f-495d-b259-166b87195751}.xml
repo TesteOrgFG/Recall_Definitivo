@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{95105afd-df4f-495d-b259-166b87195751}">
+        <property name="name">
+            <value>Gemido</value>
+        </property>
+        <relationship name="folder">
+            <destination>{e11627b1-2335-4d1b-96cf-0476a1692569}</destination>
+        </relationship>
+    </object>
+</objects>

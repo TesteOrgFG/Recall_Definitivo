@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Jogador : MonoBehaviour
 {
-
+    
     Rigidbody2D rb;
     public int velocidadeJogador;
     public int velocidadeJogadorRun;
@@ -40,7 +41,7 @@ public class Jogador : MonoBehaviour
         estado = Estados.ANDANDO;
         lado = Lado.DIREITA;
 
-        VidaJogador = 100f;
+        VidaJogador = 1f;
         spriteJogador = GetComponent<SpriteRenderer>();
     }
 
@@ -48,6 +49,11 @@ public class Jogador : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+
+        if (Input.GetKey(KeyCode.P))
+        {
+            VidaJogador = 100f;
+        }
 
         if (estado == Estados.ANDANDO)
         {
@@ -247,6 +253,8 @@ public class Jogador : MonoBehaviour
         if (VidaJogador == 0)
         {
             Debug.Log("Morreu");
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Gemido/Gemido", GetComponent<Transform>().position);
+            animator.SetBool("Morrendo", true);
         }
     }
 
@@ -270,6 +278,11 @@ public class Jogador : MonoBehaviour
 
             }
         }
+    }
+
+    public void Respawn()
+    {
+        SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
     }
 }
 

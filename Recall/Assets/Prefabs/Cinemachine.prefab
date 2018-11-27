@@ -70,7 +70,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1830572453242192}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.4789886, y: -0.41999984, z: -10}
+  m_LocalPosition: {x: -97.54018, y: 0.44099984, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4994820858745744}
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 40
-    OrthographicSize: 3.5
+    OrthographicSize: 4.5
     NearClipPlane: 0.01
     FarClipPlane: 5000
     Dutch: 0
@@ -189,7 +189,7 @@ MonoBehaviour:
   m_YDamping: 3.3
   m_ZDamping: 20
   m_ScreenX: 0.52
-  m_ScreenY: 0.63
+  m_ScreenY: 0.58
   m_CameraDistance: 10
   m_DeadZoneWidth: 0.03
   m_DeadZoneHeight: 0.15
@@ -232,9 +232,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_NoiseProfile: {fileID: 11400000, guid: a3dacaec0287d7444b4bd276816e1666, type: 2}
-  m_AmplitudeGain: 0.07
-  m_FrequencyGain: 0.5
+  m_NoiseProfile: {fileID: 0}
+  m_AmplitudeGain: 0
+  m_FrequencyGain: 0
   mNoiseOffsets: {x: 808.8853, y: -204.49292, z: 276.6394}
 --- !u!114 &114969328248082864
 MonoBehaviour:

@@ -50,6 +50,7 @@ public class Mensagem2 : MonoBehaviour {
             if (linhaAtual < fimDaLinha)
             {
                 textoMensagem.text = texto[linhaAtual];
+                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
             if (panelBox.activeSelf)
             {
