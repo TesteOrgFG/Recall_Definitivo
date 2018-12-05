@@ -42,6 +42,9 @@ public class Agente : MonoBehaviour
 
     public float danoAgente;
 
+    public BoxCollider2D boxCol;
+    public BoxCollider2D boxCol2;
+
     // Use this for initialization
     void Start()
     {
@@ -53,10 +56,10 @@ public class Agente : MonoBehaviour
         atacar = false;
 
         vel = 3;
-        ataqueDistancia = 10;
-        duracaoIdle = 2;
+        ataqueDistancia = 8;
+        duracaoIdle = 1;
         duracaoPatrulhar = 5;
-        duracaoAtacar = 2.4f;
+        duracaoAtacar = 1f;
         danoAgente = 0.1f;
 
         sprite = GetComponent<SpriteRenderer>();
@@ -71,7 +74,7 @@ public class Agente : MonoBehaviour
 
         playerDistancia = transform.position.x - player.transform.position.x;
 
-        if (Mathf.Abs(playerDistancia) < ataqueDistancia)
+        if (Mathf.Abs(playerDistancia) < ataqueDistancia && VidaInimigo > 0.1f)
         {
             atacar = true;
             estaPatrulhando = false;
@@ -91,8 +94,8 @@ public class Agente : MonoBehaviour
     // métodos para movimento 
 
     void Mover()
-    {
-        transform.Translate(PegarDirecao() * (vel * Time.deltaTime));
+    { 
+            transform.Translate(PegarDirecao() * (vel * Time.deltaTime));
     }
 
     Vector2 PegarDirecao()
@@ -144,10 +147,27 @@ public class Agente : MonoBehaviour
             Mover();
             tempoIdle = 0;
         }
-        else
+        
+        if (tempoPatrulhar >= duracaoPatrulhar)
+        {
+            MudarDirecao();
+            anim.SetBool("estaPatrulhando", estaPatrulhando);
+            Mover();
+        }
+
+        if (tempoPatrulhar > 10)
+        {
+            MudarDirecao();
+            tempoPatrulhar = 0;
+        }
+        
+        
+        
+        
+        /*else
         {
             estaPatrulhando = false;
-        }
+        }*/
     }
 
     void Atirar()
@@ -172,16 +192,19 @@ public class Agente : MonoBehaviour
 
     void MudarEstado()
     {
-        if (!atacar)
+        if (VidaInimigo > 0.1)
         {
-            if (!estaPatrulhando)
+            if (!atacar)
             {
-                Idle();
-            }
+                if (!estaPatrulhando)
+                {
+                    Idle();
+                }
 
-            else
-            {
-                Patrulhar();
+                else
+                {
+                    Patrulhar();
+                }
             }
         }
     }
@@ -235,6 +258,13 @@ public class Agente : MonoBehaviour
     public void InimigoMorre()
     {
         Destroy(gameObject);
+    }
+
+    public void DesligaColliders()
+    {
+        boxCol.enabled = false;
+        boxCol2.enabled = false;
+        GetComponent<Rigidbody2D>().gravityScale = 0;
     }
 
 

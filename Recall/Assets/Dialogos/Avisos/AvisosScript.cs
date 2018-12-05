@@ -42,21 +42,21 @@ public class AvisosScript : MonoBehaviour {
     {
         if (other.CompareTag("Player"))
         {
-            print("Entrou Dialogo");
+           // print("Entrou Dialogo");
             entrouDialogo = true;
         }
     }
 
     void OnTriggerStay2D(Collider2D other)
     {
-        print("Ficou Dialogo");
+      //  print("Ficou Dialogo");
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            print("saiu Dialogo");
+        //    print("saiu Dialogo");
             entrouDialogo = false;
         }
     }

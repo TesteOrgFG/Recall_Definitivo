@@ -32,6 +32,7 @@ public class Weapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         if (fireRate == 0)
         {
             if (Input.GetButtonDown("Fire1"))
@@ -51,29 +52,31 @@ public class Weapon : MonoBehaviour
 
     void Shoot()
     {
-        Vector2 mousePosition = new Vector2(Camera.main.ScreenToWorldPoint(Input.mousePosition).x, Camera.main.ScreenToWorldPoint(Input.mousePosition).y);
+        Vector2 mousePosition = new Vector2 (Camera.main.ScreenToWorldPoint (Input.mousePosition).x, Camera.main.ScreenToWorldPoint (Input.mousePosition).y);
         Vector2 firePointPosition = new Vector2(firePoint.position.x, firePoint.position.y);
-        RaycastHit2D hit = Physics2D.Raycast(firePointPosition, mousePosition - firePointPosition, 100, whatToHit);
+        RaycastHit2D hit = Physics2D.Raycast(firePointPosition, mousePosition - firePointPosition, 10, whatToHit);
 
-        //Debug.DrawLine(firePointPosition, (mousePosition - firePointPosition) * 100, Color.cyan);
+       // Debug.DrawLine(firePointPosition, (mousePosition - firePointPosition) * 100, Color.cyan);
+
         if (hit.collider != null)
         {
-            //Debug.DrawLine(firePointPosition, hit.point, Color.red);
+           // Debug.DrawLine(firePointPosition, hit.point, Color.red);
+
             Agente agente = hit.collider.GetComponent<Agente>();
             Sentinela sentinela = hit.collider.GetComponent<Sentinela>();
 
 
             if (agente != null)
             {
-                agente.DanoAgente (Damage);
+                agente.DanoAgente(Damage);
                 //Debug.Log("We hit " + hit.collider.name + " and did " + Damage + " damage.");
             }
 
 
             else if (sentinela != null)
             {
-                sentinela.DanoSentinela (Damage);
-               // Debug.Log("We hit " + hit.collider.name + " and did " + Damage + " damage.");
+                sentinela.DanoSentinela(Damage);
+                // Debug.Log("We hit " + hit.collider.name + " and did " + Damage + " damage.");
             }
         }
 
@@ -104,6 +107,7 @@ public class Weapon : MonoBehaviour
     {
         Transform trail = Instantiate(BulletTrailPrefab, firePoint.position, firePoint.rotation) as Transform;
         LineRenderer lr = trail.GetComponent<LineRenderer>();
+        
 
         if (lr != null)
         {

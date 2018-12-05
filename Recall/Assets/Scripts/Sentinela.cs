@@ -31,6 +31,8 @@ public class Sentinela : MonoBehaviour
     Animator anim;
 
     public float danoSentinela;
+
+    public CircleCollider2D circle;
     
 
     // Use this for initialization
@@ -63,7 +65,7 @@ public class Sentinela : MonoBehaviour
         playerDistanciaX = transform.position.x - player.transform.position.x;
         playerDistanciaY = transform.position.y - player.transform.position.y;
 
-        if (Mathf.Abs(playerDistanciaX) < ataqueDistanciaX && Mathf.Abs(playerDistanciaY) < ataqueDistanciaY)
+        if (Mathf.Abs(playerDistanciaX) < ataqueDistanciaX && Mathf.Abs(playerDistanciaY) < ataqueDistanciaY && VidaSentinela > 0)
         {
             estaPerseguindo = true;
             PerseguirHorizontal();
@@ -187,7 +189,14 @@ public class Sentinela : MonoBehaviour
         if(collision.tag == "Player")
         {
             anim.SetBool("SentinelaMorre", true);
-            
+            circle.enabled = false;
+        }
+
+        if (collision.tag == "Escudo")
+        {
+            VidaSentinela = 0;
+            anim.SetBool("SentinelaMorre", true);
+            circle.enabled = false;
         }
     }
 }

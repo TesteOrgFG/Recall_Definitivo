@@ -25,6 +25,7 @@ TagManager:
   - Metro1
   - Metro2
   - Limbo3
+  - Escudo
   layers:
   - Default
   - TransparentFX

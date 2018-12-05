@@ -22,4 +22,10 @@ public class MoveTrail : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+
+    private void OnBecameInvisible() // Função para destruir a bala quando ela deixa de ser visível pela câmera
+    {
+        Destroy(gameObject);
+    }
 }

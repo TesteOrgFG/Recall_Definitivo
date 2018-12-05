@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EditorBanks:
   - {fileID: 114948999957884110}
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   EditorEvents:
   - {fileID: 114182618350673744}
   - {fileID: 114446279564222702}
@@ -36,9 +36,9 @@ MonoBehaviour:
   - {fileID: 114852504439847020}
   - {fileID: 114729289780794728}
   - {fileID: 114941973694843548}
-  MasterBankRef: {fileID: 114895751147209952}
+  MasterBankRef: {fileID: 114002747663984998}
   StringsBankRef: {fileID: 114948999957884110}
-  stringsBankWriteTime: 636788634749267792
+  stringsBankWriteTime: 636790564740000000
   cacheVersion: 2
 --- !u!114 &114001807208680620
 MonoBehaviour:
@@ -61,6 +61,25 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1000
+--- !u!114 &114002747663984998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Reinaldo\Desktop\Recall-20181201T182217Z-001\Recall\FMOD\Recall\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636790554320000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 16760128
+  Exists: 1
 --- !u!114 &114013917552110972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -156,7 +175,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Foosteps/Madeira/FootstepWood
   guid: 88ca346eb645674ea676113bac1d1121
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -178,7 +197,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 1/Casa/Casa
   guid: 60c8000850941b479f9672142479e915
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -200,7 +219,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Gun shots/Handgun
   guid: 1ddff5c820f7a645b8cd218c78a58766
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -222,7 +241,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 1/Sangue/Sangue
   guid: 0a7cbd17a9c3444280f713a7e1ce7ba4
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -306,7 +325,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Foosteps/Grama/FootstepGrass
   guid: ac3d232343407e42a9ccea966581195d
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -458,7 +477,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Limbo/Limbo
   guid: 369172bc06661c4b95308ee628446ae2
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -480,7 +499,7 @@ MonoBehaviour:
   Path: "event:/SOUND TRACK/Porta 2/Persegui\xE7\xE3o/Chase"
   guid: aafda18b01bff44d9d6429b59370eb94
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -545,7 +564,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Click/Click
   guid: 14b2ed3421212948bd328bb45752397f
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -567,7 +586,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Gemido/Gemido
   guid: 0dcf14854fd0a04d86ed5a983abf8dd5
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -649,7 +668,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Menu Inicial/Menu Inicial
   guid: ccf1f257a9745a49b3603f4c183be946
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -736,7 +755,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 1/Grama/Grama
   guid: e19871bc15963e4ebef853976a9290c8
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -777,7 +796,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Foosteps/Concreto/FootstepConcret
   guid: af4a8c86f2f1cc448534a7f3ad36624d
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -818,7 +837,7 @@ MonoBehaviour:
   Path: event:/SFX/Inimigos/Handgun
   guid: 48bc19d2229c924dadcfa6c1920a2b29
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -840,7 +859,7 @@ MonoBehaviour:
   Path: event:/SFX/Inimigos/Explosao
   guid: 6c168a0d7888464ba7ac8826e714dbd1
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -862,7 +881,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 2/Bar/Bar
   guid: d1bdacd11440cb4cbd7b5d73a8d6f00a
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -884,7 +903,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Metro/Metro 2
   guid: 172218466e3d6242abd65f726de309b5
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -906,7 +925,7 @@ MonoBehaviour:
   Path: event:/SFX/Telefone/Desliga
   guid: 46c433e4674f9c48bd7f36625ee41f6e
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -928,7 +947,7 @@ MonoBehaviour:
   Path: event:/SFX/Inimigos/Gemido morre
   guid: 47eafa2309dec04a8a9ee2e842aac1b2
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -1016,7 +1035,7 @@ MonoBehaviour:
   FileSizes:
   - Name: Desktop
     Value: 16759712
-  Exists: 1
+  Exists: 0
 --- !u!114 &114923466771222786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1053,7 +1072,7 @@ MonoBehaviour:
   Path: event:/SFX/Telefone/Toca
   guid: 1d36456117e4c44aa1c2938d7a268dad
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -1075,14 +1094,14 @@ MonoBehaviour:
   Path: event:/Parabens
   guid: 769b08425c9a384c83fcc618a75c8896
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 5000
+  Length: 4870
 --- !u!114 &114947596743715658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1097,7 +1116,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Metro/Metro 1
   guid: 2c6c70af1cc5a54687d75bc243a4f422
   Banks:
-  - {fileID: 114895751147209952}
+  - {fileID: 114002747663984998}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -1117,7 +1136,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Path: FMOD\Recall\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636788634749267792
+  lastModified: 636790564740000000
   LoadResult: 0
   FileSizes:
   - Name: Desktop

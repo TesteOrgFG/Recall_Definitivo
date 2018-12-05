@@ -14,10 +14,16 @@ public class Jogador : MonoBehaviour
     Animator animator;
     public GameObject player; // gameobject para inserir o player e mudar a escala dele
     public GameObject arm; // gameobject para inserir o braço e mudar a escala dele
-    public GameObject firepoint;
+    public GameObject escudo;
+    public Transform firepoint;
 
     public float VidaJogador;
     public bool invulnerabilidade;
+
+
+    public float vidaEscudo = 1f;
+    public float regenEscudo;
+    public float tempoSemTomarDano;
 
 
     enum Estados { PARADO, ANDANDO, CORRENDO, PULANDO }
@@ -28,6 +34,7 @@ public class Jogador : MonoBehaviour
 
     SpriteRenderer spriteJogador;
     bool travaCorrer;
+
     //SpriteRenderer spriteBraco;
 
     // Use this for initialization
@@ -50,7 +57,23 @@ public class Jogador : MonoBehaviour
     void FixedUpdate()
     {
 
-        if (Input.GetKey(KeyCode.P))
+        tempoSemTomarDano += Time.deltaTime;
+        regenEscudo -= Time.deltaTime;
+
+
+        if (Input.GetButton("Fire2"))
+        {
+            HabilitaEscudo();
+        }
+
+        else
+        {
+            DesabilitaEscudo();
+        }
+
+        VidaEscudo();
+
+        if (Input.GetKeyDown(KeyCode.P))
         {
             VidaJogador = 100f;
         }
@@ -120,10 +143,10 @@ public class Jogador : MonoBehaviour
             newScalea.y = -1;
             arm.transform.localScale = newScalea;
 
-            Vector3 newScalef = arm.transform.localScale;
+           /* Vector3 newScalef = firepoint.transform.localScale;
             newScalef.x = -1;
             newScalef.y = -1;
-            firepoint.transform.localScale = newScalea;
+            firepoint.transform.localScale = newScalef;*/
         }
 
         else if (lado == Lado.DIREITA)
@@ -139,10 +162,10 @@ public class Jogador : MonoBehaviour
             newScalea.y = 1;
             arm.transform.localScale = newScalea;
 
-            Vector3 newScalef = arm.transform.localScale;
+           /* Vector3 newScalef = firepoint.transform.localScale;
             newScalef.x = 1;
             newScalef.y = 1;
-            firepoint.transform.localScale = newScalea;
+            firepoint.transform.localScale = newScalef;*/
         }
 
 
@@ -283,6 +306,29 @@ public class Jogador : MonoBehaviour
     public void Respawn()
     {
         SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
+    }
+
+    public void HabilitaEscudo()
+    {
+        if (vidaEscudo > 0)
+        {
+            escudo.SetActive(true);
+        }
+    }
+
+    public void DesabilitaEscudo()
+    {
+            escudo.SetActive(false);
+    }
+
+
+    public void VidaEscudo()
+    {
+        if (tempoSemTomarDano >= 15f && vidaEscudo < 1)
+        {
+            vidaEscudo += 0.2f;
+            BarraEscudo.escudo += 0.2f;
+        }
     }
 }
 

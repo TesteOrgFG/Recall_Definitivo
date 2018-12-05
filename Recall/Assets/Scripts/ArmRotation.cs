@@ -3,9 +3,10 @@ using System.Collections;
 
 public class ArmRotation : MonoBehaviour {
 
-    public int rotationOffset = 90;
+    public int rotationOffset = 0;
     public float rotZ;
     Jogador jogador;
+   // public GameObject firepoint;
 
     // Update is called once per frame
 
@@ -32,11 +33,14 @@ public class ArmRotation : MonoBehaviour {
             if (rotZ > 45)
             {
                 transform.rotation = Quaternion.Euler(0f, 0f, 45 + rotationOffset);
+                rotZ = 45;
+
             }
 
             else if (rotZ < -45)
             {
                 transform.rotation = Quaternion.Euler(0f, 0f, -45 + rotationOffset);
+                rotZ = -45;
             }
         }
 
@@ -45,13 +49,15 @@ public class ArmRotation : MonoBehaviour {
         {
             if (rotZ > 0 && rotZ < 135)
             {
-                transform.rotation = Quaternion.Euler(0f, 0f, 135 + rotationOffset);
-
+                 transform.rotation = Quaternion.Euler(0f, 0f, 135 + rotationOffset);
+                rotZ = 135;
             }
 
             else if (rotZ <= 0 && rotZ > -135)
             {
                 transform.rotation = Quaternion.Euler(0f, 0f, -135 + rotationOffset);
+                rotZ = -135;
+                //firepoint.transform.rotation = Quaternion.Euler(0f, 0f, -135 + rotationOffset);
             }
         }
     }

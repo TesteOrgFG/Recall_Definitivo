@@ -9,20 +9,20 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1809337497383482}
+  m_RootGameObject: {fileID: 1816704668504206}
   m_IsPrefabAsset: 1
---- !u!1 &1809337497383482
+--- !u!1 &1816704668504206
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4037254934253192}
-  - component: {fileID: 212278527794979870}
-  - component: {fileID: 95506487947115802}
-  - component: {fileID: 58863038238661700}
-  - component: {fileID: 114760192946724638}
+  - component: {fileID: 4852823914136404}
+  - component: {fileID: 212212014642202898}
+  - component: {fileID: 95506834762862366}
+  - component: {fileID: 58350711181064536}
+  - component: {fileID: 114815951680072180}
   m_Layer: 11
   m_Name: Sentinela
   m_TagString: Sentinela
@@ -30,25 +30,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4037254934253192
+--- !u!4 &4852823914136404
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1809337497383482}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -45.6, y: 3.93, z: 0}
+  m_GameObject: {fileID: 1816704668504206}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -118.448814, y: -31.113197, z: -7.53125}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &58863038238661700
+--- !u!58 &58350711181064536
 CircleCollider2D:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1809337497383482}
+  m_GameObject: {fileID: 1816704668504206}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -58,13 +58,13 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.6666667
---- !u!95 &95506487947115802
+--- !u!95 &95506834762862366
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1809337497383482}
+  m_GameObject: {fileID: 1816704668504206}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 5e7b84a73ee30c945a8c5023b9a02185, type: 2}
@@ -76,12 +76,12 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114760192946724638
+--- !u!114 &114815951680072180
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1809337497383482}
+  m_GameObject: {fileID: 1816704668504206}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 586315081f11b3142a79b4e9ed6c653a, type: 3}
@@ -95,13 +95,15 @@ MonoBehaviour:
   ataqueDistanciaX: 0
   ataqueDistanciaY: 0
   player: {fileID: 0}
-  VidaSentinela: 4
---- !u!212 &212278527794979870
+  VidaSentinela: 0
+  danoSentinela: 0
+  circle: {fileID: 58350711181064536}
+--- !u!212 &212212014642202898
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1809337497383482}
+  m_GameObject: {fileID: 1816704668504206}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -131,7 +133,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 17c310f7c52e8f14cb881295b20f1098, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 917340d48d40c0d43ad07c225b692099, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

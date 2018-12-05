@@ -48,13 +48,26 @@ public class Bala : MonoBehaviour {
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (other.gameObject.tag == "Player"){
+        if (collision.tag == "Escudo")
+        {
+            // INSERIR SOM DA BALA BATENDO NO ESCUDO AQUI CASO NÃO DÊ CERTO NO SCRIPT DO ESCUDO
+            direcao = Vector2.right;
+            GetComponent<SpriteRenderer>().flipX = false;
+        }
 
-            explosao.SetActive(true); // SetActive Ativa ou Desativa o GameObject
+        if (collision.tag == "Player")
+        {
+            explosao.SetActive(true); // Isso é pra animação da bala quando ela colide
             StartCoroutine("Destruir");
         }
+        
+        if (collision.tag == "Inimigos") // Aqui a bala dos inimigos atingem os próprios inimigos
+            {
+                explosao.SetActive(true);
+                StartCoroutine("Destruir");
+            }
     }
 
     IEnumerator Destruir()

@@ -13,12 +13,12 @@ public class JogadorTrigger : MonoBehaviour {
     private void Awake()
     {
         jogador = GameObject.Find("Player").GetComponent<Jogador>();
-        agente = GameObject.Find("Inimigo").GetComponent<Agente>();
+        agente = GameObject.Find("Agente").GetComponent<Agente>();
         sentinela = GameObject.Find("Sentinela").GetComponent<Sentinela>();
     }
     void Start () {
-		
-	}
+       
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -32,8 +32,7 @@ public class JogadorTrigger : MonoBehaviour {
         {
             if (!jogador.invulnerabilidade)
             {
-                jogador.DanoJogador(agente.danoAgente);
-               
+                jogador.DanoJogador(agente.danoAgente);   
             }
         }
 
