@@ -72,6 +72,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{ad7b89d1-e8f4-47a8-8901-baff81b9e2ec}">
+        <property name="volume">
+            <value>-3</value>
+        </property>
         <relationship name="effectChain">
             <destination>{ff482671-870a-4484-8406-493e7ea27af1}</destination>
         </relationship>
@@ -90,7 +93,7 @@
     <object class="MixerBusPanner" id="{28060f24-9982-4eba-b6da-8518bcc43918}"/>
     <object class="SingleSound" id="{d021c5a9-108e-4ee4-b8ac-93abcca46a55}">
         <property name="length">
-            <value>11.120816326530615</value>
+            <value>5.6000000000000005</value>
         </property>
         <property name="timelockedOffset">
             <value>1</value>

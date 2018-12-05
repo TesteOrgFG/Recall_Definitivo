@@ -75,6 +75,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{69b6debb-c022-49a5-b506-943590cb3d61}">
+        <property name="volume">
+            <value>-5</value>
+        </property>
         <relationship name="modulators">
             <destination>{21b08f0b-716f-4bbc-b564-9fb70b6098c5}</destination>
         </relationship>
@@ -96,10 +99,10 @@
     <object class="MixerBusPanner" id="{98ea40f0-9205-45b2-bc55-7af5482ea597}"/>
     <object class="SingleSound" id="{df0ee30a-747b-4724-ab75-608f64656428}">
         <property name="length">
-            <value>154.07836734693876</value>
+            <value>150.07836734693876</value>
         </property>
         <property name="timelockedOffset">
-            <value>6</value>
+            <value>10</value>
         </property>
         <relationship name="audioFile">
             <destination>{71c479ab-a03b-4610-a975-3d94c97da507}</destination>
@@ -107,7 +110,7 @@
     </object>
     <object class="EventMixerGroup" id="{0c0774df-87d0-40fa-b1b8-aaeee9779904}">
         <property name="volume">
-            <value>-19.5</value>
+            <value>-16.5</value>
         </property>
         <property name="name">
             <value>Audio 1</value>
@@ -124,7 +127,7 @@
     </object>
     <object class="LoopRegion" id="{f8c98190-8fc1-4983-916b-f5e1e71ae4da}">
         <property name="position">
-            <value>32</value>
+            <value>28</value>
         </property>
         <property name="length">
             <value>66</value>

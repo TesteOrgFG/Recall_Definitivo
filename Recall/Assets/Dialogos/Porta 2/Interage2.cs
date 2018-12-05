@@ -28,6 +28,7 @@ public class Interage2 : MonoBehaviour {
         {
             print("Entrou Dialogo");
             entrouDialogo = true;
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Radio/Radio", GetComponent<Transform>().position);
         }
     }
 

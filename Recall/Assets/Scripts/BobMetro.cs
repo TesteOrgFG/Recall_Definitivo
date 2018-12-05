@@ -21,7 +21,7 @@ public class BobMetro : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
-        ataqueDistancia = 4f;
+        ataqueDistancia = 4.5f;
 
     }
 

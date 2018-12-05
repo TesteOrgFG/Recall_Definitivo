@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EditorBanks:
   - {fileID: 114948999957884110}
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   EditorEvents:
   - {fileID: 114182618350673744}
   - {fileID: 114446279564222702}
@@ -23,7 +23,6 @@ MonoBehaviour:
   - {fileID: 114304622594864372}
   - {fileID: 114763051081719810}
   - {fileID: 114600610303413956}
-  - {fileID: 114836007775398028}
   - {fileID: 114212336803313846}
   - {fileID: 114797390749625234}
   - {fileID: 114513771511031950}
@@ -36,9 +35,19 @@ MonoBehaviour:
   - {fileID: 114852504439847020}
   - {fileID: 114729289780794728}
   - {fileID: 114941973694843548}
-  MasterBankRef: {fileID: 114002747663984998}
+  - {fileID: 114842804919806614}
+  - {fileID: 114233253646687264}
+  - {fileID: 114444880445461174}
+  - {fileID: 114063244924491914}
+  - {fileID: 114219867935539778}
+  - {fileID: 114647154755303216}
+  - {fileID: 114071749294983576}
+  - {fileID: 114552359303793088}
+  - {fileID: 114389232954486074}
+  - {fileID: 114063775738896944}
+  MasterBankRef: {fileID: 114190258049980386}
   StringsBankRef: {fileID: 114948999957884110}
-  stringsBankWriteTime: 636790564740000000
+  stringsBankWriteTime: 636796140594601974
   cacheVersion: 2
 --- !u!114 &114001807208680620
 MonoBehaviour:
@@ -140,6 +149,50 @@ MonoBehaviour:
   - Name: Desktop
     Value: 13129792
   Exists: 1
+--- !u!114 &114063244924491914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Doug/Shield/Shield
+  guid: 591c74a5118719468c6021ee9c4254b8
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 700
+--- !u!114 &114063775738896944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Radio/Radio
+  guid: 66d4fe264e3f174589b666d25359c94a
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 600
 --- !u!114 &114065485043002152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -161,6 +214,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 0
+--- !u!114 &114071749294983576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND TRACK/Limbo/Limbo Sangue
+  guid: 8a9f37389807884abacc2906cd357c68
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 22000
 --- !u!114 &114161006600124566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -175,7 +250,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Foosteps/Madeira/FootstepWood
   guid: 88ca346eb645674ea676113bac1d1121
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -197,7 +272,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 1/Casa/Casa
   guid: 60c8000850941b479f9672142479e915
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -219,7 +294,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Gun shots/Handgun
   guid: 1ddff5c820f7a645b8cd218c78a58766
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -227,6 +302,25 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 1000
+--- !u!114 &114190258049980386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: "C:\\Users\\arthu\\Documents\\FACULDADE\\3\xBA SEMESTRE\\INTER 3\xBA SEMESTRE\\Recall_Definitivo\\Recall\\FMOD\\Recall\\Build\\Desktop\\Master
+    Bank.bank"
+  lastModified: 636796140594522187
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 25321568
+  Exists: 1
 --- !u!114 &114212336803313846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -241,7 +335,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 1/Sangue/Sangue
   guid: 0a7cbd17a9c3444280f713a7e1ce7ba4
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -271,6 +365,50 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 280
+--- !u!114 &114219867935539778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND TRACK/Porta 2/Bar/Bar Fora/Bar Fora
+  guid: 79ea2fecd45c4c45b2d177a3b1ba288c
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 34900
+--- !u!114 &114233253646687264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/AMBIENTE/Porta 2/Porta 2 Ambiente
+  guid: 953adad1edbade46abfa6f1fffb7baec
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 238184
 --- !u!114 &114249888799778226
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -325,7 +463,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Foosteps/Grama/FootstepGrass
   guid: ac3d232343407e42a9ccea966581195d
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -420,6 +558,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 260
+--- !u!114 &114389232954486074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/AMBIENTE/Porta 2/Recall Ambiente
+  guid: a1fc942315bfb14494d46c595109ea6a
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 238184
 --- !u!114 &114399428363154040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -463,6 +623,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 0
+--- !u!114 &114444880445461174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/AMBIENTE/Limbo/Limbo Ambiente
+  guid: eabc0626ff4deb409783e0364e9f0c9e
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 228022
 --- !u!114 &114446279564222702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -477,7 +659,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Limbo/Limbo
   guid: 369172bc06661c4b95308ee628446ae2
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -499,14 +681,14 @@ MonoBehaviour:
   Path: "event:/SOUND TRACK/Porta 2/Persegui\xE7\xE3o/Chase"
   guid: aafda18b01bff44d9d6429b59370eb94
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 154078
+  Length: 150078
 --- !u!114 &114471364047978782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -564,7 +746,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Click/Click
   guid: 14b2ed3421212948bd328bb45752397f
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -586,7 +768,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Gemido/Gemido
   guid: 0dcf14854fd0a04d86ed5a983abf8dd5
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -594,6 +776,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 585
+--- !u!114 &114552359303793088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND TRACK/Recall/Recall
+  guid: 9adbbd300a65444db3bcc12808717b8d
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 110520
 --- !u!114 &114567790381622858
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -668,7 +872,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Menu Inicial/Menu Inicial
   guid: ccf1f257a9745a49b3603f4c183be946
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -676,6 +880,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 182000
+--- !u!114 &114647154755303216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND TRACK/Porta 2/Bar/Bar/Bar
+  guid: d1bdacd11440cb4cbd7b5d73a8d6f00a
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 33200
 --- !u!114 &114653200909287654
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -755,7 +981,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 1/Grama/Grama
   guid: e19871bc15963e4ebef853976a9290c8
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -796,7 +1022,7 @@ MonoBehaviour:
   Path: event:/SFX/Doug/Foosteps/Concreto/FootstepConcret
   guid: af4a8c86f2f1cc448534a7f3ad36624d
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -837,7 +1063,7 @@ MonoBehaviour:
   Path: event:/SFX/Inimigos/Handgun
   guid: 48bc19d2229c924dadcfa6c1920a2b29
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -859,7 +1085,7 @@ MonoBehaviour:
   Path: event:/SFX/Inimigos/Explosao
   guid: 6c168a0d7888464ba7ac8826e714dbd1
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -881,7 +1107,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Porta 2/Bar/Bar
   guid: d1bdacd11440cb4cbd7b5d73a8d6f00a
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -903,7 +1129,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Metro/Metro 2
   guid: 172218466e3d6242abd65f726de309b5
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -911,6 +1137,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 62380
+--- !u!114 &114842804919806614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/AMBIENTE/Porta 1/Porta 1 Ambiente
+  guid: 1655190a1931a84c98ee276ad2269847
+  Banks:
+  - {fileID: 114190258049980386}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 85838
 --- !u!114 &114852504439847020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -925,7 +1173,7 @@ MonoBehaviour:
   Path: event:/SFX/Telefone/Desliga
   guid: 46c433e4674f9c48bd7f36625ee41f6e
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -947,7 +1195,7 @@ MonoBehaviour:
   Path: event:/SFX/Inimigos/Gemido morre
   guid: 47eafa2309dec04a8a9ee2e842aac1b2
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -1072,14 +1320,14 @@ MonoBehaviour:
   Path: event:/SFX/Telefone/Toca
   guid: 1d36456117e4c44aa1c2938d7a268dad
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
-  Length: 11120
+  Length: 5600
 --- !u!114 &114941973694843548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1094,7 +1342,7 @@ MonoBehaviour:
   Path: event:/Parabens
   guid: 769b08425c9a384c83fcc618a75c8896
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -1116,7 +1364,7 @@ MonoBehaviour:
   Path: event:/SOUND TRACK/Metro/Metro 1
   guid: 2c6c70af1cc5a54687d75bc243a4f422
   Banks:
-  - {fileID: 114002747663984998}
+  - {fileID: 114190258049980386}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -1136,11 +1384,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Path: FMOD\Recall\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636790564740000000
+  lastModified: 636796140594601974
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 1812
+    Value: 2298
   Exists: 1
 --- !u!114 &114963555605600726
 MonoBehaviour:

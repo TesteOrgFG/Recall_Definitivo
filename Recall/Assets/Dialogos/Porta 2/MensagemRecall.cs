@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class MensagemRecall : MonoBehaviour {
-    
+
+    [SerializeField] private string newLevel;
+
     public GameObject panelBox;
     public TextAsset arquivo;
     public string[] texto;
@@ -18,6 +21,7 @@ public class MensagemRecall : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
+        linhaAtual = 1;
 
         if (arquivo != null)
         {
@@ -30,7 +34,6 @@ public class MensagemRecall : MonoBehaviour {
         }
 
         estaAtivo = false;
-        Habilitar();
     }
 
     // Update is called once per frame
@@ -42,11 +45,11 @@ public class MensagemRecall : MonoBehaviour {
             if (linhaAtual < fimDaLinha)
             {
                 textoMensagem.text = texto[linhaAtual];
-                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
             if (panelBox.activeSelf)
             {
                 linhaAtual += 1;
+                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
 
         }
@@ -68,5 +71,6 @@ public class MensagemRecall : MonoBehaviour {
         panelBox.SetActive(false);
         estaAtivo = false;
         Destroy(gameObject);
+        SceneManager.LoadScene(newLevel);
     }
 }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{ac7555c3-2534-40db-9bab-f02f07ed6256}">
+        <property name="name">
+            <value>Bar Fora</value>
+        </property>
+        <relationship name="folder">
+            <destination>{605cd272-c29f-43bd-adb8-f2061226368b}</destination>
+        </relationship>
+    </object>
+</objects>

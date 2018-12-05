@@ -50,11 +50,11 @@ public class Mensagem2 : MonoBehaviour {
             if (linhaAtual < fimDaLinha)
             {
                 textoMensagem.text = texto[linhaAtual];
-                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
             if (panelBox.activeSelf)
             {
                 linhaAtual += 1;
+                FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
             }
 
         }
@@ -76,5 +76,6 @@ public class Mensagem2 : MonoBehaviour {
         panelBox.SetActive(false);
         estaAtivo = false;
         Destroy(gameObject);
+        FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Radio/Radio", GetComponent<Transform>().position);
     }
 }

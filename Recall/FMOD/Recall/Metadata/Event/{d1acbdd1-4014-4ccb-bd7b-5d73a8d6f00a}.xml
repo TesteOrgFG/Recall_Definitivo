@@ -8,7 +8,7 @@
             <value>1</value>
         </property>
         <relationship name="folder">
-            <destination>{605cd272-c29f-43bd-adb8-f2061226368b}</destination>
+            <destination>{0ae3ca7d-d817-4fbe-96d4-f8f208512339}</destination>
         </relationship>
         <relationship name="mixer">
             <destination>{c113353d-2b92-41ca-a22c-cd8d1c79faf3}</destination>
@@ -70,8 +70,14 @@
         <relationship name="modules">
             <destination>{395be25c-a00d-41e6-87d4-d4ebfeae5e1d}</destination>
         </relationship>
+        <relationship name="markers">
+            <destination>{ef932c37-3a8d-47ee-9122-080db5e973d3}</destination>
+        </relationship>
     </object>
     <object class="EventMixerMaster" id="{8e3fffc7-3dbe-47b9-9bf9-3a4845a2f963}">
+        <property name="volume">
+            <value>-5</value>
+        </property>
         <relationship name="modulators">
             <destination>{1a4a9c51-bafd-4f9a-92de-cc0c4bcf426a}</destination>
         </relationship>
@@ -93,10 +99,10 @@
     <object class="MixerBusPanner" id="{eba19e2f-5389-4f45-b001-8558f0120977}"/>
     <object class="SingleSound" id="{395be25c-a00d-41e6-87d4-d4ebfeae5e1d}">
         <property name="length">
-            <value>37.399999999999991</value>
+            <value>33.199999999999989</value>
         </property>
         <property name="timelockedOffset">
-            <value>78.600000000000009</value>
+            <value>82.800000000000011</value>
         </property>
         <property name="looping">
             <value>true</value>
@@ -107,7 +113,7 @@
     </object>
     <object class="EventMixerGroup" id="{80d8c43c-4305-4f8b-8937-6a3c0523006d}">
         <property name="volume">
-            <value>-19.5</value>
+            <value>-16.5</value>
         </property>
         <property name="name">
             <value>Audio 1</value>
@@ -120,6 +126,20 @@
         </relationship>
         <relationship name="output">
             <destination>{8e3fffc7-3dbe-47b9-9bf9-3a4845a2f963}</destination>
+        </relationship>
+    </object>
+    <object class="LoopRegion" id="{ef932c37-3a8d-47ee-9122-080db5e973d3}">
+        <property name="position">
+            <value>0</value>
+        </property>
+        <property name="length">
+            <value>33.200000000000017</value>
+        </property>
+        <relationship name="timeline">
+            <destination>{2ccdb543-3e9e-4aad-a12b-0809d8cfb21d}</destination>
+        </relationship>
+        <relationship name="markerTrack">
+            <destination>{44ef544f-495e-4e54-869f-a4813845ce1f}</destination>
         </relationship>
     </object>
     <object class="ADSRModulator" id="{1a4a9c51-bafd-4f9a-92de-cc0c4bcf426a}">

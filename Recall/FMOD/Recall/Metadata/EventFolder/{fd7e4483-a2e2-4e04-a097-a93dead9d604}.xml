@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{fd7e4483-a2e2-4e04-a097-a93dead9d604}">
+        <property name="name">
+            <value>Limbo</value>
+        </property>
+        <relationship name="folder">
+            <destination>{01565935-1a77-4f34-96de-2763d5aa34e4}</destination>
+        </relationship>
+    </object>
+</objects>

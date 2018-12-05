@@ -18,4 +18,9 @@ public class MainMenu : MonoBehaviour {
         Debug.Log("QUIT");
         Application.Quit();
     }
+
+    public void PlayClick()
+    {
+        FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Click/Click", GetComponent<Transform>().position);
+    }
 }

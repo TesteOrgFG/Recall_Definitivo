@@ -120,7 +120,7 @@ TextureImporter:
         width: 767
         height: 1529
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -135,12 +135,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_1
       rect:
         serializedVersion: 2
-        x: 1217
+        x: 1202
         y: 5259
         width: 767
         height: 1541
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -155,12 +155,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_2
       rect:
         serializedVersion: 2
-        x: 2256
+        x: 2225
         y: 5259
         width: 767
         height: 1541
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,12 +175,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_3
       rect:
         serializedVersion: 2
-        x: 3342
+        x: 3249
         y: 5245
         width: 767
         height: 1555
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -195,12 +195,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_4
       rect:
         serializedVersion: 2
-        x: 4328
+        x: 4282
         y: 5265
         width: 767
         height: 1535
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,12 +215,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_5
       rect:
         serializedVersion: 2
-        x: 377
+        x: 201
         y: 3559
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -235,12 +235,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_6
       rect:
         serializedVersion: 2
-        x: 1336
+        x: 1218
         y: 3555
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -255,12 +255,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_7
       rect:
         serializedVersion: 2
-        x: 2320
+        x: 2248
         y: 3559
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,12 +275,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_8
       rect:
         serializedVersion: 2
-        x: 3305
+        x: 3275
         y: 3559
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -295,12 +295,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_9
       rect:
         serializedVersion: 2
-        x: 4250
+        x: 4259
         y: 3561
-        width: 767
+        width: 794
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,12 +315,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_10
       rect:
         serializedVersion: 2
-        x: 131
-        y: 1859
-        width: 767
+        x: 137
+        y: 1873
+        width: 828
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -335,12 +335,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_11
       rect:
         serializedVersion: 2
-        x: 1296
-        y: 1846
+        x: 1215
+        y: 1863
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -355,12 +355,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_12
       rect:
         serializedVersion: 2
-        x: 2431
-        y: 1872
+        x: 2241
+        y: 1863
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,12 +375,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_13
       rect:
         serializedVersion: 2
-        x: 3399
-        y: 1835
+        x: 3262
+        y: 1841
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_14
       rect:
         serializedVersion: 2
-        x: 4321
+        x: 4271
         y: 1858
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -415,12 +415,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_15
       rect:
         serializedVersion: 2
-        x: 202
+        x: 188
         y: 159
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -435,12 +435,12 @@ TextureImporter:
       name: DOUG_Walk_Casa_16
       rect:
         serializedVersion: 2
-        x: 1196
+        x: 1204
         y: 160
         width: 767
         height: 1565
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
