@@ -14,6 +14,7 @@ public class ArmRotation : MonoBehaviour {
     private void Start()
     {
         jogador = GetComponentInParent<Jogador>();
+        gameObject.SetActive(true);
     }
 
     void FixedUpdate() {
@@ -26,6 +27,12 @@ public class ArmRotation : MonoBehaviour {
         transform.rotation = Quaternion.Euler(0f, 0f, rotZ + rotationOffset);
 
         //print(rotZ);
+
+        if (jogador.VidaJogador <= 0)
+        {
+            
+            gameObject.SetActive(false);
+        }
 
 
         if (jogador.lado == Jogador.Lado.DIREITA)

@@ -50,6 +50,7 @@ public class Jogador : MonoBehaviour
 
         VidaJogador = 1f;
         spriteJogador = GetComponent<SpriteRenderer>();
+        
     }
 
 
@@ -73,10 +74,8 @@ public class Jogador : MonoBehaviour
 
         VidaEscudo();
 
-        if (Input.GetKeyDown(KeyCode.P))
-        {
-            VidaJogador = 100f;
-        }
+        
+
 
         if (estado == Estados.ANDANDO)
         {
@@ -273,12 +272,15 @@ public class Jogador : MonoBehaviour
 
         StartCoroutine(Dano());
 
-        if (VidaJogador == 0)
+        if (VidaJogador <= 0)
         {
+            Destroy(arm);
             Debug.Log("Morreu");
             FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Doug/Gemido/Gemido", GetComponent<Transform>().position);
             animator.SetBool("Morrendo", true);
+            
         }
+
     }
 
 

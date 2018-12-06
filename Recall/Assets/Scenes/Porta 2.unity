@@ -370,6 +370,10 @@ Prefab:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1935861854951674, guid: e60523687fcf6b64a96abec1284acb4b, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e60523687fcf6b64a96abec1284acb4b, type: 2}
   m_IsPrefabAsset: 0
@@ -7377,6 +7381,11 @@ Prefab:
     - target: {fileID: 1867503705196726, guid: 4c5d16843608217468675129c3042984, type: 2}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114883817754722408, guid: 4c5d16843608217468675129c3042984,
+        type: 2}
+      propertyPath: danoAgente
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c5d16843608217468675129c3042984, type: 2}
